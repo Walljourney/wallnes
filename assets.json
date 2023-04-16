@@ -1,9 +1,9 @@
 {
     "dateupdate": "202304151343",
-    "cdn":[
-        {"jsdelivr": "https://cdn.jsdelivr.net/gh/{dataname}/{insf}"},
-        {"guthub": "https://raw.githubusercontent.com/{dataname}/main/{insf}"}
-    ],
+    "cdn":{
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/{dataname}/{insf}",
+        "guthub": "https://raw.githubusercontent.com/{dataname}/main/{insf}"
+    },
     "dataname": "Walljourney/wallnes",
     "assets": [
         {

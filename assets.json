@@ -1,11 +1,27 @@
 {
     "dateupdate": "202304151343",
-    "cdn":{
+    "cdn": {
         "jsdelivr": "https://cdn.jsdelivr.net/gh/{dataname}/assets/{insf}.webp",
         "guthub": "https://raw.githubusercontent.com/{dataname}/main/assets/{insf}.webp"
     },
     "dataname": "Walljourney/wallnes",
     "assets": [
+        {
+            "seed": "",
+            "ti": "flower at dusk",
+            "info": "lakefront cabin with flower at dusk, in the style of highly realistic, colorful dreams, mountainous vistas, Jan Berenstain, grandeur of scale, natural lighting, august Friedrich Schenck, --ar 9:16 --v 5 --q 2",
+            "insf": [
+                "f995eecc3e54964578dbf3e891bec430"
+            ]
+        },
+        {
+            "seed": "",
+            "ti": "A samurai in neo-Tokyo",
+            "info": "A samurai in neo-Tokyo, cyberpunk, futuristic, cinematic, blade runner, beautiful, night, neon lights, ultra realistic, foggy background, high detailed, 8k, --ar 9:16 --v 5 --q 2",
+            "insf": [
+                "e1ee92b45bac4e41f748ecd7ed223b21"
+            ]
+        },
         {
             "seed": "",
             "ti": "fantasy",

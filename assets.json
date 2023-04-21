@@ -2,7 +2,8 @@
     "dateupdate": "202304151343",
     "cdn": {
         "jsdelivr": "https://cdn.jsdelivr.net/gh/{dataname}/assets/{insf}.webp",
-        "guthub": "https://raw.githubusercontent.com/{dataname}/main/assets/{insf}.webp"
+        "guthub": "https://raw.githubusercontent.com/{dataname}/main/assets/{insf}.webp",
+        "gitee": "https://gitee.com/jogfeelingvi/wallnes/blob/main/assets/{insf}.webp" 
     },
     "dataname": "Walljourney/wallnes",
     "assets": [

@@ -1,5 +1,5 @@
 {
-    "dateupdate": "20230426132314",
+    "dateupdate": "20230426133624",
     "cdn": {
         "jsdelivr": "https://cdn.jsdelivr.net/gh/{dataname}/assets/{insf}.webp",
         "guthub": "https://raw.githubusercontent.com/{dataname}/main/assets/{insf}.webp",
@@ -7,6 +7,14 @@
     },
     "dataname": "Walljourney/wallnes",
     "assets": [
+        {
+            "seed": "0",
+            "ti": "beauty hair environment oil canvas",
+            "info": "Aphrodite, the goddess of love and beauty, emerging from a seafoam wave, her flowing hair and robes intertwining with seashells and pearls, while seagulls fly around her, creating a serene yet majestic environment, Oil painting on canvas, using a 50mm lens, --ar 9:16 --v 5",
+            "insf": [
+                "560039fcf63ce2043d61d1a78bae2222"
+            ]
+        },
         {
             "seed": "0",
             "ti": "logo youtube channel background art",

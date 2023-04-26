@@ -8,7 +8,7 @@
     "dataname": "Walljourney/wallnes",
     "assets": [
         {
-            "seed": "0",
+            "seed": "1024",
             "ti": "year kid baby yak senory",
             "info": "cinematic, 8k, 4 year old little kid, laughing with a baby YAK, senory in tibet, hyper realistic, hdr, sunset lighting, colorful, ultra details, ultra realistic, --ar 9:16 --v 5",
             "insf": [
@@ -16,24 +16,24 @@
             ]
         },
         {
-            "seed": "",
-            "ti": "flower at dusk",
+            "seed": "1024",
+            "ti": "cabin flower dusk style jan",
             "info": "lakefront cabin with flower at dusk, in the style of highly realistic, colorful dreams, mountainous vistas, Jan Berenstain, grandeur of scale, natural lighting, august Friedrich Schenck, --ar 9:16 --v 5 --q 2",
             "insf": [
                 "f995eecc3e54964578dbf3e891bec430"
             ]
         },
         {
-            "seed": "",
-            "ti": "A samurai in neo-Tokyo",
+            "seed": "1024",
+            "ti": "samurai cyberpunk blade runner night",
             "info": "A samurai in neo-Tokyo, cyberpunk, futuristic, cinematic, blade runner, beautiful, night, neon lights, ultra realistic, foggy background, high detailed, 8k, --ar 9:16 --v 5 --q 2",
             "insf": [
                 "e1ee92b45bac4e41f748ecd7ed223b21"
             ]
         },
         {
-            "seed": "",
-            "ti": "fantasy",
+            "seed": "1024",
+            "ti": "fantasy iphone wallpage",
             "info": "fantasy, iphone,wallpage, --ar 9:16 --v 5",
             "insf": [
                 "9ef806c4a359265ad316d16f1fe262dc",
@@ -43,8 +43,8 @@
             ]
         },
         {
-            "seed": "",
-            "ti": "Tomb-sweeping Day",
+            "seed": "1024",
+            "ti": "sky grass day festival spring",
             "info": "Isometric 2.5D, Tomb-sweeping Day, Chinese traditional festival, outing, spring, sky background, and sky, grass, flowers, pond, water lilies, surrounded by mountains, a girl walking on the grass with an umbrella, two swallows are flying , Clouds and mists and green dawn in the distance, image art, rich details, high resolution, soft cold light, --ar 9:16 --v 5",
             "insf": [
                 "ded9590002cf43a3d593ee93855f72dc",
@@ -52,16 +52,16 @@
             ]
         },
         {
-            "seed": "",
-            "ti": "flowers and stars",
+            "seed": "1024",
+            "ti": "person boat style festive light",
             "info": "a person in a boat is floating in the ocean with flowers and stars, in the style of anime, photo-realistic techniques, enchanting lighting, animated gifs, festive atmosphere, gorecore, light emerald and yellow, light emerald and red --ar 9:16 --v 5",
             "insf": [
                 "5ff80b91052478fdb89c97889fdcb34b"
             ]
         },
         {
-            "seed": "",
-            "ti": "Ching Ming",
+            "seed": "1024",
+            "ti": "festival charming style technology festive",
             "info": "Chinese traditional festival Ching Ming Festival, fresh and charming, anime style, realistic technology, fascinating lighting, animated gif, festive atmosphere, gorecore, light emerald and yellow, light emerald and red, 8k, --ar 9:16 --v 5 ",
             "insf": [
                 "6fc394f363f695428462c05cc0f364e5",

@@ -1,5 +1,5 @@
 {
-    "dateupdate": "20230425095438",
+    "dateupdate": "20230426132314",
     "cdn": {
         "jsdelivr": "https://cdn.jsdelivr.net/gh/{dataname}/assets/{insf}.webp",
         "guthub": "https://raw.githubusercontent.com/{dataname}/main/assets/{insf}.webp",
@@ -7,6 +7,14 @@
     },
     "dataname": "Walljourney/wallnes",
     "assets": [
+        {
+            "seed": "0",
+            "ti": "logo youtube channel background art",
+            "info": "logo for youtube channel, black background, 3d art, lonely man with mask and a cigarette while raining, --ar 9:16 --v 5",
+            "insf": [
+                "d027b03d53b9c20669562f5a7c6c0bbd"
+            ]
+        },
         {
             "seed": "1024",
             "ti": "year kid baby yak senory",

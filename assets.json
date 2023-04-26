@@ -8,15 +8,7 @@
     "dataname": "Walljourney/wallnes",
     "assets": [
         {
-            "seed": "0",
-            "ti": "eye platform bustling cityscape integration",
-            "info": "A futuristic human with a third eye::5 and intricate cybernetic enhancements standing on a platform in the middle of a bustling, neon-lit cityscape, emphasizing the human's integration with technology, 7 chakras visible in the body::5, digital artwork, created with 3D modeling software, --ar 9:16 -v 5 --s 250 --v 5",
-            "insf": [
-                "8cb0e1de1e9c6e837fa35385911304e3"
-            ]
-        },
-        {
-            "seed": "0",
+            "seed": "1024",
             "ti": "v eye platform bustling cityscape",
             "info": "A futuristic human with a third eye::5 and intricate cybernetic enhancements standing on a platform in the middle of a bustling, neon-lit cityscape, emphasizing the human's integration with technology, 7 chakras visible in the body::5, digital artwork, created with 3D modeling software, --ar 9:16 --v 5 --s 250 --v 5",
             "insf": [
@@ -24,7 +16,7 @@
             ]
         },
         {
-            "seed": "0",
+            "seed": "1024",
             "ti": "beauty hair environment oil canvas",
             "info": "Aphrodite, the goddess of love and beauty, emerging from a seafoam wave, her flowing hair and robes intertwining with seashells and pearls, while seagulls fly around her, creating a serene yet majestic environment, Oil painting on canvas, using a 50mm lens, --ar 9:16 --v 5",
             "insf": [
@@ -32,7 +24,7 @@
             ]
         },
         {
-            "seed": "0",
+            "seed": "1024",
             "ti": "logo youtube channel background art",
             "info": "logo for youtube channel, black background, 3d art, lonely man with mask and a cigarette while raining, --ar 9:16 --v 5",
             "insf": [
@@ -61,17 +53,6 @@
             "info": "A samurai in neo-Tokyo, cyberpunk, futuristic, cinematic, blade runner, beautiful, night, neon lights, ultra realistic, foggy background, high detailed, 8k, --ar 9:16 --v 5 --q 2",
             "insf": [
                 "e1ee92b45bac4e41f748ecd7ed223b21"
-            ]
-        },
-        {
-            "seed": "1024",
-            "ti": "fantasy iphone wallpage",
-            "info": "fantasy, iphone,wallpage, --ar 9:16 --v 5",
-            "insf": [
-                "9ef806c4a359265ad316d16f1fe262dc",
-                "95fd1d62966e9724691d507435d7fd6a",
-                "03ecfa5b0252935cf5a030cc58a436fb",
-                "03ecfa5b0252935cf5a030cc58a436fb"
             ]
         },
         {

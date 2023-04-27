@@ -1,5 +1,5 @@
 {
-    "dateupdate": "20230426161300",
+    "dateupdate": "20230427150749",
     "cdn": {
         "jsdelivr": "https://cdn.jsdelivr.net/gh/{dataname}/assets/{insf}.webp",
         "guthub": "https://raw.githubusercontent.com/{dataname}/main/assets/{insf}.webp",
@@ -7,6 +7,22 @@
     },
     "dataname": "Walljourney/wallnes",
     "assets": [
+        {
+            "seed": "0",
+            "ti": "staff robe",
+            "info": "16-bit above the treetops, young wizard holds a staff and casts magic, he wears a red magic robe, --niji 5 --ar 9:16 --s 250",
+            "insf": [
+                "0686eb8bb2c22d6175ec924d23805876"
+            ]
+        },
+        {
+            "seed": "0",
+            "ti": "staff robe",
+            "info": "16-bit above the treetops, young wizard holds a staff and casts magic, he wears a red magic robe, --niji 5 --ar 9:16 --s 250",
+            "insf": [
+                "1310082f32c24f9e40fb58dc085d991a"
+            ]
+        },
         {
             "seed": "0",
             "ti": "eye platform bustling cityscape integration",

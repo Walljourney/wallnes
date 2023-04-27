@@ -8,7 +8,7 @@
     "dataname": "Walljourney/wallnes",
     "assets": [
         {
-            "seed": "0",
+            "seed": "1024",
             "ti": "staff robe",
             "info": "16-bit above the treetops, young wizard holds a staff and casts magic, he wears a red magic robe, --niji 5 --ar 9:16 --s 250",
             "insf": [

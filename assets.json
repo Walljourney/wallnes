@@ -1,5 +1,5 @@
 {
-    "dateupdate": "20230428103500",
+    "dateupdate": "20230428114858",
     "cdn": {
         "jsdelivr": "https://cdn.jsdelivr.net/gh/{dataname}/assets/{insf}.webp",
         "guthub": "https://raw.githubusercontent.com/{dataname}/main/assets/{insf}.webp",
@@ -7,6 +7,14 @@
     },
     "dataname": "Walljourney/wallnes",
     "assets": [
+        {
+            "seed": "0",
+            "ti": "rooster fiery comb view distance",
+            "info": "A white rooster with a fiery red comb, standing on the eaves and watching the sun, with a panoramic view of the mountains in the distance, the colors are full and Ruili, showing the demeanor of a king, the picture is majestic, giving people a yearning for a new life, HDR, Hasselblad colors , --ar 9:16 --s 250 --v 5",
+            "insf": [
+                "796058bea0634afac4d94bce687d451b"
+            ]
+        },
         {
             "seed": "0",
             "ti": "pine sea color painting",

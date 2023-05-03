@@ -1,5 +1,5 @@
 {
-    "dateupdate": "20230504001320",
+    "dateupdate": "20230504002425",
     "cdn": {
         "jsdelivr": "https://cdn.jsdelivr.net/gh/{dataname}/assets/{insf}.webp",
         "guthub": "https://raw.githubusercontent.com/{dataname}/main/assets/{insf}.webp",
@@ -7,6 +7,14 @@
     },
     "dataname": "Walljourney/wallnes",
     "assets": [
+        {
+            "seed": "0",
+            "ti": "color super resolution",
+            "info": "Aquila flies on the cloud-shrouded mountains, the cliffs are full of flowers, 45 degrees overlooking, Hasselblad color, super high resolution, full and sharp color --ar 3:4 --s 250 --v 5 --s 250 --v 5 discord user@@1085929274684493835",
+            "insf": [
+                "ac3ea9f6f3edecc96bfb50277cf4a827"
+            ]
+        },
         {
             "seed": "0",
             "ti": "mountain temple cliff light",

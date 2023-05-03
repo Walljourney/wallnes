@@ -1,5 +1,5 @@
 {
-    "dateupdate": "20230504004757",
+    "dateupdate": "20230504005231",
     "cdn": {
         "jsdelivr": "https://cdn.jsdelivr.net/gh/{dataname}/assets/{insf}.webp",
         "guthub": "https://raw.githubusercontent.com/{dataname}/main/assets/{insf}.webp",
@@ -7,6 +7,14 @@
     },
     "dataname": "Walljourney/wallnes",
     "assets": [
+        {
+            "seed": "0",
+            "ti": "paper art illustration landscape calm",
+            "info": "Paper art illustration, concept of heaven, landscape, beautiful, serene, calm, starry sky, village, cinematic, 8k --ar 9:20 --s 250 --v 5 discord user@1085929274684493835",
+            "insf": [
+                "d57f714c8c0e0535519049c29ed242d7"
+            ]
+        },
         {
             "seed": "0",
             "ti": "turquoise oil scene style fairy",

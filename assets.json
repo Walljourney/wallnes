@@ -1,5 +1,5 @@
 {
-    "dateupdate": "20230428114858",
+    "dateupdate": "20230504001320",
     "cdn": {
         "jsdelivr": "https://cdn.jsdelivr.net/gh/{dataname}/assets/{insf}.webp",
         "guthub": "https://raw.githubusercontent.com/{dataname}/main/assets/{insf}.webp",
@@ -7,6 +7,14 @@
     },
     "dataname": "Walljourney/wallnes",
     "assets": [
+        {
+            "seed": "0",
+            "ti": "mountain temple cliff light",
+            "info": "There is a temple in the cliff, shining golden light in the morning sun, the mountain next to it is shrouded in smoke, the mountain is lush and full of colors, --ar 9:16 --s 250 --v 5 --s 250 --v 5 discord user@@1085929274684493835",
+            "insf": [
+                "47a1436e7beeb9e23ad83cffd9122c33"
+            ]
+        },
         {
             "seed": "0",
             "ti": "rooster fiery comb view distance",

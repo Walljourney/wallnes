@@ -1,5 +1,5 @@
 {
-    "dateupdate": "20230504002425",
+    "dateupdate": "20230504004757",
     "cdn": {
         "jsdelivr": "https://cdn.jsdelivr.net/gh/{dataname}/assets/{insf}.webp",
         "guthub": "https://raw.githubusercontent.com/{dataname}/main/assets/{insf}.webp",
@@ -7,6 +7,14 @@
     },
     "dataname": "Walljourney/wallnes",
     "assets": [
+        {
+            "seed": "0",
+            "ti": "turquoise oil scene style fairy",
+            "info": "an oil painting of an autumn scene, in the style of whimsical fairy tales, dark turquoise and turquoise, thick impasto, uhd image, romantic moonlit seascapes, light bronze and orange, ferrania p30 --ar 9:19 --s 250 --v 5 discord user@1085929274684493835",
+            "insf": [
+                "12ce21be4917b0e011f5e348d4d7f1fc"
+            ]
+        },
         {
             "seed": "0",
             "ti": "color super resolution",

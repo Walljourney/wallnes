@@ -1,5 +1,5 @@
 {
-    "dateupdate": "20230504005231",
+    "dateupdate": "20230504231245",
     "cdn": {
         "jsdelivr": "https://cdn.jsdelivr.net/gh/{dataname}/assets/{insf}.webp",
         "guthub": "https://raw.githubusercontent.com/{dataname}/main/assets/{insf}.webp",
@@ -7,6 +7,14 @@
     },
     "dataname": "Walljourney/wallnes",
     "assets": [
+        {
+            "seed": "0",
+            "ti": "rabbit space suit moon earth",
+            "info": "A rabbit in a space suit looking at the moon::3, the earth in the distance, the universe is always scattered with satellite fragments, looking up, two points of view disappearing --ar 3:4 --s 250 --v 5",
+            "insf": [
+                "9a54d2f7d88227fdabf397c968924e27"
+            ]
+        },
         {
             "seed": "0",
             "ti": "pine sea color painting",

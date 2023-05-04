@@ -9,6 +9,15 @@
     "assets": [
         {
             "seed": "0",
+            "ti": "pine sea color painting",
+            "info": "Strange pine trees, standing on top of the sea of clouds, cloudy peaks are hidden, full of color, creative and beautiful painting, HD 4K, HDR, photography effects --ar 9:16 --v 5 --s 250 --v 5",
+            "insf": [
+                "7dc55b77045686e0ff4ca08de30a4c7d",
+                "663d792653eff64c25e3113883ede493"
+            ]
+        },
+        {
+            "seed": "1024",
             "ti": "paper art illustration landscape calm",
             "info": "Paper art illustration, concept of heaven, landscape, beautiful, serene, calm, starry sky, village, cinematic, 8k --ar 9:20 --s 250 --v 5 discord user@1085929274684493835",
             "insf": [
@@ -16,7 +25,7 @@
             ]
         },
         {
-            "seed": "0",
+            "seed": "1024",
             "ti": "turquoise oil scene style fairy",
             "info": "an oil painting of an autumn scene, in the style of whimsical fairy tales, dark turquoise and turquoise, thick impasto, uhd image, romantic moonlit seascapes, light bronze and orange, ferrania p30 --ar 9:19 --s 250 --v 5 discord user@1085929274684493835",
             "insf": [
@@ -24,43 +33,27 @@
             ]
         },
         {
-            "seed": "0",
+            "seed": "1024",
             "ti": "color super resolution",
-            "info": "Aquila flies on the cloud-shrouded mountains, the cliffs are full of flowers, 45 degrees overlooking, Hasselblad color, super high resolution, full and sharp color --ar 3:4 --s 250 --v 5 --s 250 --v 5 discord user@@1085929274684493835",
+            "info": "Aquila flies on the cloud-shrouded mountains, the cliffs are full of flowers, 45 degrees overlooking, Hasselblad color, super high resolution, full and sharp color --ar 3:4 --s 250 --v 5 --s 250 --v 5 discord user@1085929274684493835",
             "insf": [
                 "ac3ea9f6f3edecc96bfb50277cf4a827"
             ]
         },
         {
-            "seed": "0",
+            "seed": "1024",
             "ti": "mountain temple cliff light",
-            "info": "There is a temple in the cliff, shining golden light in the morning sun, the mountain next to it is shrouded in smoke, the mountain is lush and full of colors, --ar 9:16 --s 250 --v 5 --s 250 --v 5 discord user@@1085929274684493835",
+            "info": "There is a temple in the cliff, shining golden light in the morning sun, the mountain next to it is shrouded in smoke, the mountain is lush and full of colors, --ar 9:16 --s 250 --v 5 --s 250 --v 5 discord user@1085929274684493835",
             "insf": [
                 "47a1436e7beeb9e23ad83cffd9122c33"
             ]
         },
         {
-            "seed": "0",
+            "seed": "1024",
             "ti": "rooster fiery comb view distance",
             "info": "A white rooster with a fiery red comb, standing on the eaves and watching the sun, with a panoramic view of the mountains in the distance, the colors are full and Ruili, showing the demeanor of a king, the picture is majestic, giving people a yearning for a new life, HDR, Hasselblad colors , --ar 9:16 --s 250 --v 5",
             "insf": [
                 "796058bea0634afac4d94bce687d451b"
-            ]
-        },
-        {
-            "seed": "0",
-            "ti": "pine sea color painting",
-            "info": "Strange pine trees, standing on top of the sea of clouds, cloudy peaks are hidden, full of color, creative and beautiful painting, HD 4K, HDR, photography effects --ar 9:16 --v 5 --s 250 --v 5",
-            "insf": [
-                "7dc55b77045686e0ff4ca08de30a4c7d"
-            ]
-        },
-        {
-            "seed": "0",
-            "ti": "pine sea color painting",
-            "info": "Strange pine trees, standing on top of the sea of clouds, cloudy peaks are hidden, full of color, creative and beautiful painting, HD 4K, HDR, photography effects --ar 9:16 --v 5 --s 250 --v 5",
-            "insf": [
-                "663d792653eff64c25e3113883ede493"
             ]
         },
         {

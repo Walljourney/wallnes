@@ -1,5 +1,5 @@
 {
-    "dateupdate": "20230505235645",
+    "dateupdate": "20230506002820",
     "cdn": {
         "jsdelivr": "https://cdn.jsdelivr.net/gh/{dataname}/assets/{insf}.webp",
         "guthub": "https://raw.githubusercontent.com/{dataname}/main/assets/{insf}.webp",
@@ -7,6 +7,14 @@
     },
     "dataname": "Walljourney/wallnes",
     "assets": [
+        {
+            "seed": "0",
+            "ti": "mouse boxer wrist shot",
+            "info": "Strong mouse boxer throws an uppercut::3, with white wrist straps on his hands, standing in the ring, panoramic shot::2, tall::2, majestic::2, sure to win::2, flash, --ar 4:3 --v 5.1 --q 2 --s 250 discord <@Walljourney>",
+            "insf": [
+                "2e89263f2b4ee81eaf9716597096d148"
+            ]
+        },
         {
             "seed": "0",
             "ti": "shot tiger beard camera color",

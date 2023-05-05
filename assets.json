@@ -1,5 +1,5 @@
 {
-    "dateupdate": "20230505225622",
+    "dateupdate": "20230505232638",
     "cdn": {
         "jsdelivr": "https://cdn.jsdelivr.net/gh/{dataname}/assets/{insf}.webp",
         "guthub": "https://raw.githubusercontent.com/{dataname}/main/assets/{insf}.webp",
@@ -7,6 +7,14 @@
     },
     "dataname": "Walljourney/wallnes",
     "assets": [
+        {
+            "seed": "0",
+            "ti": "illustration picture vulture book style",
+            "info": "Artistic picture of a vulture, comic book style, rich in detail, layered composition, painted illustration, vibrant mural, detailed illustration, gouache, sculpture --ar 4:3 --niji 5 --q 2 discord <@Walljourney>",
+            "insf": [
+                "077774740d5f7bd4a8979ed027d016a5"
+            ]
+        },
         {
             "seed": "0",
             "ti": "rabbit space suit moon earth",

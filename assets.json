@@ -9,14 +9,6 @@
     "assets": [
         {
             "seed": "0",
-            "ti": "illustration picture vulture book style",
-            "info": "Artistic picture of a vulture, psychedelic comic book style, rich in detail, layered composition, light bronze and dark red tones, painted illustration, vibrant mural, detailed illustration, gouache, sculpture --ar 9:20 --s 250 --niji 5 --q 2 discord userWalljourney",
-            "insf": [
-                "f1ca25ce06f4fba621ce46c9320d8bc1"
-            ]
-        },
-        {
-            "seed": "0",
             "ti": "rabbit space suit moon earth",
             "info": "A rabbit in a space suit looking at the moon::3, the earth in the distance, the universe is always scattered with satellite fragments, looking up, two points of view disappearing --ar 3:4 --s 250 --v 5",
             "insf": [
@@ -35,7 +27,7 @@
         {
             "seed": "1024",
             "ti": "paper art illustration landscape calm",
-            "info": "Paper art illustration, concept of heaven, landscape, beautiful, serene, calm, starry sky, village, cinematic, 8k --ar 9:20 --s 250 --v 5 discord user@1085929274684493835",
+            "info": "Paper art illustration, concept of heaven, landscape, beautiful, serene, calm, starry sky, village, cinematic, 8k --ar 9:20 --s 250 --v 5 discord @Walljourney",
             "insf": [
                 "d57f714c8c0e0535519049c29ed242d7"
             ]
@@ -43,7 +35,7 @@
         {
             "seed": "1024",
             "ti": "turquoise oil scene style fairy",
-            "info": "an oil painting of an autumn scene, in the style of whimsical fairy tales, dark turquoise and turquoise, thick impasto, uhd image, romantic moonlit seascapes, light bronze and orange, ferrania p30 --ar 9:19 --s 250 --v 5 discord user@1085929274684493835",
+            "info": "an oil painting of an autumn scene, in the style of whimsical fairy tales, dark turquoise and turquoise, thick impasto, uhd image, romantic moonlit seascapes, light bronze and orange, ferrania p30 --ar 9:19 --s 250 --v 5 discord @Walljourney",
             "insf": [
                 "12ce21be4917b0e011f5e348d4d7f1fc"
             ]
@@ -51,7 +43,7 @@
         {
             "seed": "1024",
             "ti": "color super resolution",
-            "info": "Aquila flies on the cloud-shrouded mountains, the cliffs are full of flowers, 45 degrees overlooking, Hasselblad color, super high resolution, full and sharp color --ar 3:4 --s 250 --v 5 --s 250 --v 5 discord user@1085929274684493835",
+            "info": "Aquila flies on the cloud-shrouded mountains, the cliffs are full of flowers, 45 degrees overlooking, Hasselblad color, super high resolution, full and sharp color --ar 3:4 --s 250 --v 5 --s 250 --v 5 discord @Walljourney",
             "insf": [
                 "ac3ea9f6f3edecc96bfb50277cf4a827"
             ]
@@ -59,7 +51,7 @@
         {
             "seed": "1024",
             "ti": "mountain temple cliff light",
-            "info": "There is a temple in the cliff, shining golden light in the morning sun, the mountain next to it is shrouded in smoke, the mountain is lush and full of colors, --ar 9:16 --s 250 --v 5 --s 250 --v 5 discord user@1085929274684493835",
+            "info": "There is a temple in the cliff, shining golden light in the morning sun, the mountain next to it is shrouded in smoke, the mountain is lush and full of colors, --ar 9:16 --s 250 --v 5 --s 250 --v 5 discord @Walljourney",
             "insf": [
                 "47a1436e7beeb9e23ad83cffd9122c33"
             ]

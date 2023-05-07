@@ -1,5 +1,5 @@
 {
-    "dateupdate": "20230506002820",
+    "dateupdate": "20230507230320",
     "cdn": {
         "jsdelivr": "https://cdn.jsdelivr.net/gh/{dataname}/assets/{insf}.webp",
         "guthub": "https://raw.githubusercontent.com/{dataname}/main/assets/{insf}.webp",
@@ -7,6 +7,14 @@
     },
     "dataname": "Walljourney/wallnes",
     "assets": [
+        {
+            "seed": "0",
+            "ti": "ink wash style kung",
+            "info": "Ink and wash style, Chinese kung fu, dragon, Wu Guanzhong, Zhang Daqian --niji 5 --ar 9:16 discord <@Walljourney>",
+            "insf": [
+                "fd8b762e41b91c619342a6cffaec87e7"
+            ]
+        },
         {
             "seed": "0",
             "ti": "mouse boxer wrist shot",

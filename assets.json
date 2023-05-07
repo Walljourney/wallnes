@@ -1,5 +1,5 @@
 {
-    "dateupdate": "20230507230320",
+    "dateupdate": "20230508000325",
     "cdn": {
         "jsdelivr": "https://cdn.jsdelivr.net/gh/{dataname}/assets/{insf}.webp",
         "guthub": "https://raw.githubusercontent.com/{dataname}/main/assets/{insf}.webp",
@@ -7,6 +7,14 @@
     },
     "dataname": "Walljourney/wallnes",
     "assets": [
+        {
+            "seed": "0",
+            "ti": "ink wash style plum blossom",
+            "info": "Chinese ink and wash style, snow, plum blossom, --niji 5 --ar 4:3 discord <@Walljourney>",
+            "insf": [
+                "c79f8d8a9cb86a5bbda2cf376c3fd57b"
+            ]
+        },
         {
             "seed": "0",
             "ti": "ink wash style kung",

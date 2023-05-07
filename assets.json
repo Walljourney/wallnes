@@ -1,5 +1,5 @@
 {
-    "dateupdate": "20230508000325",
+    "dateupdate": "20230508002329",
     "cdn": {
         "jsdelivr": "https://cdn.jsdelivr.net/gh/{dataname}/assets/{insf}.webp",
         "guthub": "https://raw.githubusercontent.com/{dataname}/main/assets/{insf}.webp",
@@ -7,6 +7,14 @@
     },
     "dataname": "Walljourney/wallnes",
     "assets": [
+        {
+            "seed": "0",
+            "ti": "ink wash style koi carp",
+            "info": "Chinese ink and wash style, three koi carp::3, sense of gathering::2, vertical perspective::4, simple image, Zhang Daqian --niji 5 --ar 9:16 discord <@Walljourney>",
+            "insf": [
+                "10729205207292042ed4e5862de1d6ba"
+            ]
+        },
         {
             "seed": "0",
             "ti": "ink wash style plum blossom",

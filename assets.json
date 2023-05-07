@@ -1,5 +1,5 @@
 {
-    "dateupdate": "20230508072216",
+    "dateupdate": "20230508073220",
     "cdn": {
         "jsdelivr": "https://cdn.jsdelivr.net/gh/{dataname}/assets/{insf}.webp",
         "guthub": "https://raw.githubusercontent.com/{dataname}/main/assets/{insf}.webp",
@@ -7,6 +7,14 @@
     },
     "dataname": "Walljourney/wallnes",
     "assets": [
+        {
+            "seed": "0",
+            "ti": "yoona shirt discord walljourney",
+            "info": "A girl like Yoona, wearing a plaid shirt, blue jeans, wide-angle lens, confident, smiling, the last of us, ultra-high-definition, photo, clear and bright colors --s 750 --v 5.1 --q 2 --ar 9:20 discord <@Walljourney>",
+            "insf": [
+                "53d5e8e292f4fcd3193f80967de58226"
+            ]
+        },
         {
             "seed": "0",
             "ti": "yoona shirt body style definition",

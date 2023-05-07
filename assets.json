@@ -1,5 +1,5 @@
 {
-    "dateupdate": "20230508002329",
+    "dateupdate": "20230508010335",
     "cdn": {
         "jsdelivr": "https://cdn.jsdelivr.net/gh/{dataname}/assets/{insf}.webp",
         "guthub": "https://raw.githubusercontent.com/{dataname}/main/assets/{insf}.webp",
@@ -7,6 +7,14 @@
     },
     "dataname": "Walljourney/wallnes",
     "assets": [
+        {
+            "seed": "0",
+            "ti": "yoona shirt body face plum",
+            "info": "Girl like yoona, wearing white short-sleeved shirt, full body photo, face confident, plum blossoms in background, smiling, UHD, mid-tone, clear bright colors --s 750 --v 5.1 --q 2 --ar 9:20 discord <@Walljourney>",
+            "insf": [
+                "d885edcaa310248df377aeff330b98a8"
+            ]
+        },
         {
             "seed": "0",
             "ti": "ink wash style koi carp",

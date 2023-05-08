@@ -1,5 +1,5 @@
 {
-"dateupdate": "20230508151359",
+"dateupdate": "20230508152404",
 "cdn": {
 "jsdelivr": "https://cdn.jsdelivr.net/gh/{dataname}/assets/{insf}.webp",
 "guthub": "https://raw.githubusercontent.com/{dataname}/main/assets/{insf}.webp",
@@ -7,6 +7,14 @@
 },
 "dataname": "Walljourney/wallnes",
 "assets": [
+{
+"seed": "0",
+"ti": "coconut poster sea crab splash",
+"info": "Coconut drink poster, sea crab, splash of coconut water, beach in the background, illustration, super high resolution --ar 9:20 --v 5.1 --s 750 --q 2 discord <@Walljourney>",
+"insf": [
+"e90f96c88dab350e59ac7a1e320d9e71"
+]
+},
 {
 "seed": "0",
 "ti": "yoona blue shirt skirt office",

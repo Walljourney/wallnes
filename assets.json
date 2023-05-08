@@ -1,5 +1,5 @@
 {
-"dateupdate": "20230508141345",
+"dateupdate": "20230508143350",
 "cdn": {
 "jsdelivr": "https://cdn.jsdelivr.net/gh/{dataname}/assets/{insf}.webp",
 "guthub": "https://raw.githubusercontent.com/{dataname}/main/assets/{insf}.webp",
@@ -7,6 +7,14 @@
 },
 "dataname": "Walljourney/wallnes",
 "assets": [
+{
+"seed": "0",
+"ti": "coffee poster sea splash illustration",
+"info": "Coffee poster by the sea, octopus, coffee splash, illustration, ultra realistic and detailed --ar 9:16 --v 5.1 --s 750 --q 2 discord <@Walljourney>",
+"insf": [
+"d9ea25c72c8885aac833230c6dcbd34d"
+]
+},
 {
 "seed": "0",
 "ti": "painting courtyard lady peony crane",

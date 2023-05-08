@@ -1,5 +1,5 @@
 {
-    "dateupdate": "20230508073220",
+    "dateupdate": "20230508094144",
     "cdn": {
         "jsdelivr": "https://cdn.jsdelivr.net/gh/{dataname}/assets/{insf}.webp",
         "guthub": "https://raw.githubusercontent.com/{dataname}/main/assets/{insf}.webp",
@@ -7,6 +7,14 @@
     },
     "dataname": "Walljourney/wallnes",
     "assets": [
+        {
+            "seed": "0",
+            "ti": "degree discord walljourney",
+            "info": "Chinese painting, panoramic 90 degree shooting, directly above the light, colorful auspicious clouds, exquisite details, 3 million pixels --ar 9:20 --q 2 --v 5.1 discord <@Walljourney>",
+            "insf": [
+                "95c81961a8576460f6ffcab7650c83e9"
+            ]
+        },
         {
             "seed": "0",
             "ti": "yoona shirt discord walljourney",

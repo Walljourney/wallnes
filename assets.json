@@ -1,214 +1,222 @@
 {
-    "dateupdate": "20230508094144",
-    "cdn": {
-        "jsdelivr": "https://cdn.jsdelivr.net/gh/{dataname}/assets/{insf}.webp",
-        "guthub": "https://raw.githubusercontent.com/{dataname}/main/assets/{insf}.webp",
-        "gitee": "https://gitee.com/jogfeelingvi/wallnes/raw/main/assets/{insf}.webp"
-    },
-    "dataname": "Walljourney/wallnes",
-    "assets": [
-        {
-            "seed": "1024",
-            "ti": "degree discord walljourney",
-            "info": "Chinese painting, panoramic 90 degree shooting, directly above the light, colorful auspicious clouds, exquisite details, 3 million pixels --ar 9:20 --q 2 --v 5.1 discord <@Walljourney>",
-            "insf": [
-                "95c81961a8576460f6ffcab7650c83e9"
-            ]
-        },
-        {
-            "seed": "1024",
-            "ti": "yoona shirt discord walljourney",
-            "info": "A girl like Yoona, wearing a plaid shirt, blue jeans, wide-angle lens, confident, smiling, the last of us, ultra-high-definition, photo, clear and bright colors --s 750 --v 5.1 --q 2 --ar 9:20 discord <@Walljourney>",
-            "insf": [
-                "53d5e8e292f4fcd3193f80967de58226"
-            ]
-        },
-        {
-            "seed": "1024",
-            "ti": "yoona shirt body style definition",
-            "info": "A girl like Yoona, wearing a plaid shirt, full body shot, confident, smiling, the last of us style, ultra high definition, medium tone, clear and bright colors --s 750 --v 5.1 --q 2 --ar 9:20 discord <@Walljourney>",
-            "insf": [
-                "685e05b410f4ab4d9b96ccd24912206c"
-            ]
-        },
-        {
-            "seed": "1024",
-            "ti": "yoona shirt body face plum",
-            "info": "Girl like yoona, wearing white short-sleeved shirt, full body photo, face confident, plum blossoms in background, smiling, UHD, mid-tone, clear bright colors --s 750 --v 5.1 --q 2 --ar 9:20 discord <@Walljourney>",
-            "insf": [
-                "d885edcaa310248df377aeff330b98a8"
-            ]
-        },
-        {
-            "seed": "1024",
-            "ti": "ink wash style koi carp",
-            "info": "Chinese ink and wash style, three koi carp::3, sense of gathering::2, vertical perspective::4, simple image, Zhang Daqian --niji 5 --ar 9:16 discord <@Walljourney>",
-            "insf": [
-                "10729205207292042ed4e5862de1d6ba"
-            ]
-        },
-        {
-            "seed": "1024",
-            "ti": "ink wash style plum blossom",
-            "info": "Chinese ink and wash style, snow, plum blossom, --niji 5 --ar 4:3 discord <@Walljourney>",
-            "insf": [
-                "c79f8d8a9cb86a5bbda2cf376c3fd57b"
-            ]
-        },
-        {
-            "seed": "1024",
-            "ti": "ink wash style kung",
-            "info": "Ink and wash style, Chinese kung fu, dragon, Wu Guanzhong, Zhang Daqian --niji 5 --ar 9:16 discord <@Walljourney>",
-            "insf": [
-                "fd8b762e41b91c619342a6cffaec87e7"
-            ]
-        },
-        {
-            "seed": "1024",
-            "ti": "mouse boxer wrist shot",
-            "info": "Strong mouse boxer throws an uppercut::3, with white wrist straps on his hands, standing in the ring, panoramic shot::2, tall::2, majestic::2, sure to win::2, flash, --ar 4:3 --v 5.1 --q 2 --s 250 discord <@Walljourney>",
-            "insf": [
-                "2e89263f2b4ee81eaf9716597096d148"
-            ]
-        },
-        {
-            "seed": "1024",
-            "ti": "shot tiger beard camera color",
-            "info": "A huge tiger slowly walks out of the jungle, majestic::2, licking its beard, staring at the camera, the color is rich, full and sharp, shot on the ground, side shot, --ar 9:16 --v 5.1 --s 750 --q 2 discord <@Walljourney>",
-            "insf": [
-                "70bd28bcc83d1d2a3444c5d8e995ff17"
-            ]
-        },
-        {
-            "seed": "1024",
-            "ti": "illustration picture vulture book style",
-            "info": "Artistic picture of a vulture, comic book style, rich in detail, layered composition, painted illustration, vibrant mural, detailed illustration, gouache, sculpture --ar 4:3 --niji 5 --q 2 discord <@Walljourney>",
-            "insf": [
-                "077774740d5f7bd4a8979ed027d016a5"
-            ]
-        },
-        {
-            "seed": "1024",
-            "ti": "rabbit space suit moon earth",
-            "info": "A rabbit in a space suit looking at the moon::3, the earth in the distance, the universe is always scattered with satellite fragments, looking up, two points of view disappearing --ar 3:4 --s 250 --v 5",
-            "insf": [
-                "9a54d2f7d88227fdabf397c968924e27"
-            ]
-        },
-        {
-            "seed": "1024",
-            "ti": "pine sea color painting",
-            "info": "Strange pine trees, standing on top of the sea of clouds, cloudy peaks are hidden, full of color, creative and beautiful painting, HD 4K, HDR, photography effects --ar 9:16 --v 5 --s 250 --v 5",
-            "insf": [
-                "7dc55b77045686e0ff4ca08de30a4c7d",
-                "663d792653eff64c25e3113883ede493"
-            ]
-        },
-        {
-            "seed": "1024",
-            "ti": "paper art illustration landscape calm",
-            "info": "Paper art illustration, concept of heaven, landscape, beautiful, serene, calm, starry sky, village, cinematic, 8k --ar 9:20 --s 250 --v 5 discord @Walljourney",
-            "insf": [
-                "d57f714c8c0e0535519049c29ed242d7"
-            ]
-        },
-        {
-            "seed": "1024",
-            "ti": "turquoise oil scene style fairy",
-            "info": "an oil painting of an autumn scene, in the style of whimsical fairy tales, dark turquoise and turquoise, thick impasto, uhd image, romantic moonlit seascapes, light bronze and orange, ferrania p30 --ar 9:19 --s 250 --v 5 discord @Walljourney",
-            "insf": [
-                "12ce21be4917b0e011f5e348d4d7f1fc"
-            ]
-        },
-        {
-            "seed": "1024",
-            "ti": "color super resolution",
-            "info": "Aquila flies on the cloud-shrouded mountains, the cliffs are full of flowers, 45 degrees overlooking, Hasselblad color, super high resolution, full and sharp color --ar 3:4 --s 250 --v 5 --s 250 --v 5 discord @Walljourney",
-            "insf": [
-                "ac3ea9f6f3edecc96bfb50277cf4a827"
-            ]
-        },
-        {
-            "seed": "1024",
-            "ti": "mountain temple cliff light",
-            "info": "There is a temple in the cliff, shining golden light in the morning sun, the mountain next to it is shrouded in smoke, the mountain is lush and full of colors, --ar 9:16 --s 250 --v 5 --s 250 --v 5 discord @Walljourney",
-            "insf": [
-                "47a1436e7beeb9e23ad83cffd9122c33"
-            ]
-        },
-        {
-            "seed": "1024",
-            "ti": "rooster fiery comb view distance",
-            "info": "A white rooster with a fiery red comb, standing on the eaves and watching the sun, with a panoramic view of the mountains in the distance, the colors are full and Ruili, showing the demeanor of a king, the picture is majestic, giving people a yearning for a new life, HDR, Hasselblad colors , --ar 9:16 --s 250 --v 5",
-            "insf": [
-                "796058bea0634afac4d94bce687d451b"
-            ]
-        },
-        {
-            "seed": "1024",
-            "ti": "staff robe",
-            "info": "16-bit above the treetops, young wizard holds a staff and casts magic, he wears a red magic robe, --niji 5 --ar 9:16 --s 250",
-            "insf": [
-                "0686eb8bb2c22d6175ec924d23805876",
-                "1310082f32c24f9e40fb58dc085d991a"
-            ]
-        },
-        {
-            "seed": "1024",
-            "ti": "cloud head scenery let moment",
-            "info": "The blue sky and white clouds are so pleasant. The cloud shaped like a bear 's head is amazing. The distant scenery is even more romantic and beautiful. Let's enjoy this beautiful moment together. Shot in high-definition 8K --ar 9:16 --s 250 --niji 5",
-            "insf": [
-                "3d10bc2bc7d086245de3a8c1ea433728"
-            ]
-        },
-        {
-            "seed": "1024",
-            "ti": "eye platform bustling cityscape integration",
-            "info": "A futuristic human with a third eye::5 and intricate cybernetic enhancements standing on a platform in the middle of a bustling, neon-lit cityscape, emphasizing the human's integration with technology, 7 chakras visible in the body::5, digital artwork, created with 3D modeling software, --ar 9:16 -v 5 --s 250 --v 5",
-            "insf": [
-                "8cb0e1de1e9c6e837fa35385911304e3",
-                "3f6d882394947a99a9e05395e86f4bb8"
-            ]
-        },
-        {
-            "seed": "1024",
-            "ti": "beauty hair environment oil canvas",
-            "info": "Aphrodite, the goddess of love and beauty, emerging from a seafoam wave, her flowing hair and robes intertwining with seashells and pearls, while seagulls fly around her, creating a serene yet majestic environment, Oil painting on canvas, using a 50mm lens, --ar 9:16 --v 5",
-            "insf": [
-                "560039fcf63ce2043d61d1a78bae2222"
-            ]
-        },
-        {
-            "seed": "1024",
-            "ti": "logo youtube channel background art",
-            "info": "logo for youtube channel, black background, 3d art, lonely man with mask and a cigarette while raining, --ar 9:16 --v 5",
-            "insf": [
-                "d027b03d53b9c20669562f5a7c6c0bbd"
-            ]
-        },
-        {
-            "seed": "1024",
-            "ti": "year kid baby yak senory",
-            "info": "cinematic, 8k, 4 year old little kid, laughing with a baby YAK, senory in tibet, hyper realistic, hdr, sunset lighting, colorful, ultra details, ultra realistic, --ar 9:16 --v 5",
-            "insf": [
-                "862e0a0335f1fd6cb3a36576fa0dc6e9"
-            ]
-        },
-        {
-            "seed": "1024",
-            "ti": "cabin flower dusk style jan",
-            "info": "lakefront cabin with flower at dusk, in the style of highly realistic, colorful dreams, mountainous vistas, Jan Berenstain, grandeur of scale, natural lighting, august Friedrich Schenck, --ar 9:16 --v 5 --q 2",
-            "insf": [
-                "f995eecc3e54964578dbf3e891bec430"
-            ]
-        },
-        {
-            "seed": "1024",
-            "ti": "samurai cyberpunk blade runner night",
-            "info": "A samurai in neo-Tokyo, cyberpunk, futuristic, cinematic, blade runner, beautiful, night, neon lights, ultra realistic, foggy background, high detailed, 8k, --ar 9:16 --v 5 --q 2",
-            "insf": [
-                "e1ee92b45bac4e41f748ecd7ed223b21"
-            ]
-        }
-    ]
+"dateupdate": "20230508113026",
+"cdn": {
+"jsdelivr": "https://cdn.jsdelivr.net/gh/{dataname}/assets/{insf}.webp",
+"guthub": "https://raw.githubusercontent.com/{dataname}/main/assets/{insf}.webp",
+"gitee": "https://gitee.com/jogfeelingvi/wallnes/raw/main/assets/{insf}.webp"
+},
+"dataname": "Walljourney/wallnes",
+"assets": [
+{
+"seed": "0",
+"ti": "discord walljourney",
+"info": "Chinese paintings, fairy tales, The White Snake and Xiaoqing,--ar 4:3 --v 5.1 --s 750 discord <@Walljourney>",
+"insf": [
+"47547bca4bc59ee12f25c65493f074f1"
+]
+},
+{
+"seed": "1024",
+"ti": "degree discord walljourney",
+"info": "Chinese painting, panoramic 90 degree shooting, directly above the light, colorful auspicious clouds, exquisite details, 3 million pixels --ar 9:20 --q 2 --v 5.1 discord <@Walljourney>",
+"insf": [
+"95c81961a8576460f6ffcab7650c83e9"
+]
+},
+{
+"seed": "1024",
+"ti": "yoona shirt discord walljourney",
+"info": "A girl like Yoona, wearing a plaid shirt, blue jeans, wide-angle lens, confident, smiling, the last of us, ultra-high-definition, photo, clear and bright colors --s 750 --v 5.1 --q 2 --ar 9:20 discord <@Walljourney>",
+"insf": [
+"53d5e8e292f4fcd3193f80967de58226"
+]
+},
+{
+"seed": "1024",
+"ti": "yoona shirt body style definition",
+"info": "A girl like Yoona, wearing a plaid shirt, full body shot, confident, smiling, the last of us style, ultra high definition, medium tone, clear and bright colors --s 750 --v 5.1 --q 2 --ar 9:20 discord <@Walljourney>",
+"insf": [
+"685e05b410f4ab4d9b96ccd24912206c"
+]
+},
+{
+"seed": "1024",
+"ti": "yoona shirt body face plum",
+"info": "Girl like yoona, wearing white short-sleeved shirt, full body photo, face confident, plum blossoms in background, smiling, UHD, mid-tone, clear bright colors --s 750 --v 5.1 --q 2 --ar 9:20 discord <@Walljourney>",
+"insf": [
+"d885edcaa310248df377aeff330b98a8"
+]
+},
+{
+"seed": "1024",
+"ti": "ink wash style koi carp",
+"info": "Chinese ink and wash style, three koi carp::3, sense of gathering::2, vertical perspective::4, simple image, Zhang Daqian --niji 5 --ar 9:16 discord <@Walljourney>",
+"insf": [
+"10729205207292042ed4e5862de1d6ba"
+]
+},
+{
+"seed": "1024",
+"ti": "ink wash style plum blossom",
+"info": "Chinese ink and wash style, snow, plum blossom, --niji 5 --ar 4:3 discord <@Walljourney>",
+"insf": [
+"c79f8d8a9cb86a5bbda2cf376c3fd57b"
+]
+},
+{
+"seed": "1024",
+"ti": "ink wash style kung",
+"info": "Ink and wash style, Chinese kung fu, dragon, Wu Guanzhong, Zhang Daqian --niji 5 --ar 9:16 discord <@Walljourney>",
+"insf": [
+"fd8b762e41b91c619342a6cffaec87e7"
+]
+},
+{
+"seed": "1024",
+"ti": "mouse boxer wrist shot",
+"info": "Strong mouse boxer throws an uppercut::3, with white wrist straps on his hands, standing in the ring, panoramic shot::2, tall::2, majestic::2, sure to win::2, flash, --ar 4:3 --v 5.1 --q 2 --s 250 discord <@Walljourney>",
+"insf": [
+"2e89263f2b4ee81eaf9716597096d148"
+]
+},
+{
+"seed": "1024",
+"ti": "shot tiger beard camera color",
+"info": "A huge tiger slowly walks out of the jungle, majestic::2, licking its beard, staring at the camera, the color is rich, full and sharp, shot on the ground, side shot, --ar 9:16 --v 5.1 --s 750 --q 2 discord <@Walljourney>",
+"insf": [
+"70bd28bcc83d1d2a3444c5d8e995ff17"
+]
+},
+{
+"seed": "1024",
+"ti": "illustration picture vulture book style",
+"info": "Artistic picture of a vulture, comic book style, rich in detail, layered composition, painted illustration, vibrant mural, detailed illustration, gouache, sculpture --ar 4:3 --niji 5 --q 2 discord <@Walljourney>",
+"insf": [
+"077774740d5f7bd4a8979ed027d016a5"
+]
+},
+{
+"seed": "1024",
+"ti": "rabbit space suit moon earth",
+"info": "A rabbit in a space suit looking at the moon::3, the earth in the distance, the universe is always scattered with satellite fragments, looking up, two points of view disappearing --ar 3:4 --s 250 --v 5",
+"insf": [
+"9a54d2f7d88227fdabf397c968924e27"
+]
+},
+{
+"seed": "1024",
+"ti": "pine sea color painting",
+"info": "Strange pine trees, standing on top of the sea of clouds, cloudy peaks are hidden, full of color, creative and beautiful painting, HD 4K, HDR, photography effects --ar 9:16 --v 5 --s 250 --v 5",
+"insf": [
+"7dc55b77045686e0ff4ca08de30a4c7d",
+"663d792653eff64c25e3113883ede493"
+]
+},
+{
+"seed": "1024",
+"ti": "paper art illustration landscape calm",
+"info": "Paper art illustration, concept of heaven, landscape, beautiful, serene, calm, starry sky, village, cinematic, 8k --ar 9:20 --s 250 --v 5 discord @Walljourney",
+"insf": [
+"d57f714c8c0e0535519049c29ed242d7"
+]
+},
+{
+"seed": "1024",
+"ti": "turquoise oil scene style fairy",
+"info": "an oil painting of an autumn scene, in the style of whimsical fairy tales, dark turquoise and turquoise, thick impasto, uhd image, romantic moonlit seascapes, light bronze and orange, ferrania p30 --ar 9:19 --s 250 --v 5 discord @Walljourney",
+"insf": [
+"12ce21be4917b0e011f5e348d4d7f1fc"
+]
+},
+{
+"seed": "1024",
+"ti": "color super resolution",
+"info": "Aquila flies on the cloud-shrouded mountains, the cliffs are full of flowers, 45 degrees overlooking, Hasselblad color, super high resolution, full and sharp color --ar 3:4 --s 250 --v 5 --s 250 --v 5 discord @Walljourney",
+"insf": [
+"ac3ea9f6f3edecc96bfb50277cf4a827"
+]
+},
+{
+"seed": "1024",
+"ti": "mountain temple cliff light",
+"info": "There is a temple in the cliff, shining golden light in the morning sun, the mountain next to it is shrouded in smoke, the mountain is lush and full of colors, --ar 9:16 --s 250 --v 5 --s 250 --v 5 discord @Walljourney",
+"insf": [
+"47a1436e7beeb9e23ad83cffd9122c33"
+]
+},
+{
+"seed": "1024",
+"ti": "rooster fiery comb view distance",
+"info": "A white rooster with a fiery red comb, standing on the eaves and watching the sun, with a panoramic view of the mountains in the distance, the colors are full and Ruili, showing the demeanor of a king, the picture is majestic, giving people a yearning for a new life, HDR, Hasselblad colors , --ar 9:16 --s 250 --v 5",
+"insf": [
+"796058bea0634afac4d94bce687d451b"
+]
+},
+{
+"seed": "1024",
+"ti": "staff robe",
+"info": "16-bit above the treetops, young wizard holds a staff and casts magic, he wears a red magic robe, --niji 5 --ar 9:16 --s 250",
+"insf": [
+"0686eb8bb2c22d6175ec924d23805876",
+"1310082f32c24f9e40fb58dc085d991a"
+]
+},
+{
+"seed": "1024",
+"ti": "cloud head scenery let moment",
+"info": "The blue sky and white clouds are so pleasant. The cloud shaped like a bear 's head is amazing. The distant scenery is even more romantic and beautiful. Let's enjoy this beautiful moment together. Shot in high-definition 8K --ar 9:16 --s 250 --niji 5",
+"insf": [
+"3d10bc2bc7d086245de3a8c1ea433728"
+]
+},
+{
+"seed": "1024",
+"ti": "eye platform bustling cityscape integration",
+"info": "A futuristic human with a third eye::5 and intricate cybernetic enhancements standing on a platform in the middle of a bustling, neon-lit cityscape, emphasizing the human's integration with technology, 7 chakras visible in the body::5, digital artwork, created with 3D modeling software, --ar 9:16 -v 5 --s 250 --v 5",
+"insf": [
+"8cb0e1de1e9c6e837fa35385911304e3",
+"3f6d882394947a99a9e05395e86f4bb8"
+]
+},
+{
+"seed": "1024",
+"ti": "beauty hair environment oil canvas",
+"info": "Aphrodite, the goddess of love and beauty, emerging from a seafoam wave, her flowing hair and robes intertwining with seashells and pearls, while seagulls fly around her, creating a serene yet majestic environment, Oil painting on canvas, using a 50mm lens, --ar 9:16 --v 5",
+"insf": [
+"560039fcf63ce2043d61d1a78bae2222"
+]
+},
+{
+"seed": "1024",
+"ti": "logo youtube channel background art",
+"info": "logo for youtube channel, black background, 3d art, lonely man with mask and a cigarette while raining, --ar 9:16 --v 5",
+"insf": [
+"d027b03d53b9c20669562f5a7c6c0bbd"
+]
+},
+{
+"seed": "1024",
+"ti": "year kid baby yak senory",
+"info": "cinematic, 8k, 4 year old little kid, laughing with a baby YAK, senory in tibet, hyper realistic, hdr, sunset lighting, colorful, ultra details, ultra realistic, --ar 9:16 --v 5",
+"insf": [
+"862e0a0335f1fd6cb3a36576fa0dc6e9"
+]
+},
+{
+"seed": "1024",
+"ti": "cabin flower dusk style jan",
+"info": "lakefront cabin with flower at dusk, in the style of highly realistic, colorful dreams, mountainous vistas, Jan Berenstain, grandeur of scale, natural lighting, august Friedrich Schenck, --ar 9:16 --v 5 --q 2",
+"insf": [
+"f995eecc3e54964578dbf3e891bec430"
+]
+},
+{
+"seed": "1024",
+"ti": "samurai cyberpunk blade runner night",
+"info": "A samurai in neo-Tokyo, cyberpunk, futuristic, cinematic, blade runner, beautiful, night, neon lights, ultra realistic, foggy background, high detailed, 8k, --ar 9:16 --v 5 --q 2",
+"insf": [
+"e1ee92b45bac4e41f748ecd7ed223b21"
+]
+}
+]
 }

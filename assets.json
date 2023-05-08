@@ -1,5 +1,5 @@
 {
-"dateupdate": "20230508152404",
+"dateupdate": "20230508181409",
 "cdn": {
 "jsdelivr": "https://cdn.jsdelivr.net/gh/{dataname}/assets/{insf}.webp",
 "guthub": "https://raw.githubusercontent.com/{dataname}/main/assets/{insf}.webp",
@@ -7,6 +7,14 @@
 },
 "dataname": "Walljourney/wallnes",
 "assets": [
+{
+"seed": "0",
+"ti": "yoona wearing shirt wrap skirt",
+"info": "Girl like yoona, wearing white shirt and wrap skirt, holding KRISS Vector, burning house is background --ar 4:3 discord <@Walljourney>",
+"insf": [
+"7263fcff0644518af5c2847212f7742e"
+]
+},
 {
 "seed": "0",
 "ti": "coconut poster sea crab splash",

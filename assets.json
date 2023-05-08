@@ -1,5 +1,5 @@
 {
-"dateupdate": "20230508150355",
+"dateupdate": "20230508151359",
 "cdn": {
 "jsdelivr": "https://cdn.jsdelivr.net/gh/{dataname}/assets/{insf}.webp",
 "guthub": "https://raw.githubusercontent.com/{dataname}/main/assets/{insf}.webp",
@@ -7,6 +7,14 @@
 },
 "dataname": "Walljourney/wallnes",
 "assets": [
+{
+"seed": "0",
+"ti": "yoona blue shirt skirt office",
+"info": "A girl like Yoona, blue shirt, short skirt, office, 90-degree overhead shot --s 750 --v 5.1 --q 2 --ar 9:20 discord <@Walljourney>",
+"insf": [
+"cd348eda8b9364d2e43eb422f06da0a2"
+]
+},
 {
 "seed": "0",
 "ti": "yoona blue shirt skirt office",

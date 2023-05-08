@@ -1,5 +1,5 @@
 {
-"dateupdate": "20230508113026",
+"dateupdate": "20230508141345",
 "cdn": {
 "jsdelivr": "https://cdn.jsdelivr.net/gh/{dataname}/assets/{insf}.webp",
 "guthub": "https://raw.githubusercontent.com/{dataname}/main/assets/{insf}.webp",
@@ -7,6 +7,14 @@
 },
 "dataname": "Walljourney/wallnes",
 "assets": [
+{
+"seed": "0",
+"ti": "painting courtyard lady peony crane",
+"info": "Chinese painting, courtyard, lady::3, peony::2, red-crowned crane::2, peace, wealth --ar 4:3 --v 5.1 --q 2 discord <@Walljourney>",
+"insf": [
+"cfebda672217d9afc2c707db63ae7131"
+]
+},
 {
 "seed": "1024",
 "ti": "xiaoqing",

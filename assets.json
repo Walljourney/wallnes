@@ -8,8 +8,8 @@
 "dataname": "Walljourney/wallnes",
 "assets": [
 {
-"seed": "0",
-"ti": "discord walljourney",
+"seed": "1024",
+"ti": "xiaoqing",
 "info": "Chinese paintings, fairy tales, The White Snake and Xiaoqing,--ar 4:3 --v 5.1 --s 750 discord <@Walljourney>",
 "insf": [
 "47547bca4bc59ee12f25c65493f074f1"
@@ -17,7 +17,7 @@
 },
 {
 "seed": "1024",
-"ti": "degree discord walljourney",
+"ti": "degree",
 "info": "Chinese painting, panoramic 90 degree shooting, directly above the light, colorful auspicious clouds, exquisite details, 3 million pixels --ar 9:20 --q 2 --v 5.1 discord <@Walljourney>",
 "insf": [
 "95c81961a8576460f6ffcab7650c83e9"
@@ -25,7 +25,7 @@
 },
 {
 "seed": "1024",
-"ti": "yoona shirt discord walljourney",
+"ti": "yoona shirt",
 "info": "A girl like Yoona, wearing a plaid shirt, blue jeans, wide-angle lens, confident, smiling, the last of us, ultra-high-definition, photo, clear and bright colors --s 750 --v 5.1 --q 2 --ar 9:20 discord <@Walljourney>",
 "insf": [
 "53d5e8e292f4fcd3193f80967de58226"

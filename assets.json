@@ -1,5 +1,5 @@
 {
-"dateupdate": "20230508143350",
+"dateupdate": "20230508150355",
 "cdn": {
 "jsdelivr": "https://cdn.jsdelivr.net/gh/{dataname}/assets/{insf}.webp",
 "guthub": "https://raw.githubusercontent.com/{dataname}/main/assets/{insf}.webp",
@@ -7,6 +7,14 @@
 },
 "dataname": "Walljourney/wallnes",
 "assets": [
+{
+"seed": "0",
+"ti": "yoona blue shirt skirt office",
+"info": "A girl like Yoona, blue shirt, short skirt, office, 90-degree overhead shot --s 750 --v 5.1 --q 2 --ar 9:20 discord <@Walljourney>",
+"insf": [
+"ed318221a7eea855b3ff5fe141309d98"
+]
+},
 {
 "seed": "0",
 "ti": "coffee poster sea splash illustration",

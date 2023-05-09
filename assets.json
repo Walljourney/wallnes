@@ -1,5 +1,5 @@
 {
-"dateupdate": "20230509223705",
+"dateupdate": "20230509225714",
 "cdn": {
 "jsdelivr": "https://cdn.jsdelivr.net/gh/{dataname}/assets/{insf}.webp",
 "guthub": "https://raw.githubusercontent.com/{dataname}/main/assets/{insf}.webp",
@@ -7,6 +7,14 @@
 },
 "dataname": "Walljourney/wallnes",
 "assets": [
+{
+"seed": "0",
+"ti": "light style super cute girl",
+"info": "A super happy cute little ancient Chinese girl standing on the grass with gorgeous and cute jellyfish dancing in the air, coral, bright light, light green and yellowish tones, surrealism, ink style, Qi Baishi, clear outline light , rim light, fantasy, light spot, graphic illustration, disney style, 8k, --ar 9:16 --niji 5 discord <@Walljourney>",
+"insf": [
+"3aab317c592342880c1f0403d1eb69c6"
+]
+},
 {
 "seed": "0",
 "ti": "dragon boat cute pale style",

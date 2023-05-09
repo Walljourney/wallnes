@@ -1,5 +1,5 @@
 {
-"dateupdate": "20230509135657",
+"dateupdate": "20230509223705",
 "cdn": {
 "jsdelivr": "https://cdn.jsdelivr.net/gh/{dataname}/assets/{insf}.webp",
 "guthub": "https://raw.githubusercontent.com/{dataname}/main/assets/{insf}.webp",
@@ -7,6 +7,14 @@
 },
 "dataname": "Walljourney/wallnes",
 "assets": [
+{
+"seed": "0",
+"ti": "dragon boat cute pale style",
+"info": "Dragon Boat Festival\uff0cA super happy cute little ancient Chinese girl, paddling a boat, a cute dragon behind her, reeds, bright light, pale green and pale yellow tones, surrealism, Ink and wash style, Qi Baishi, clear outline light, edge light, fantasy, Dappled light, flat illustration, Disney style, 8k, --ar 9:16 --niji 5 discord <@Walljourney>",
+"insf": [
+"87b8b5460d24edbca2bb1f12e53956dc"
+]
+},
 {
 "seed": "0",
 "ti": "spacecraft vast starry sky background",

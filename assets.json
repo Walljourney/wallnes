@@ -1,5 +1,5 @@
 {
-"dateupdate": "20230508181409",
+"dateupdate": "20230509135657",
 "cdn": {
 "jsdelivr": "https://cdn.jsdelivr.net/gh/{dataname}/assets/{insf}.webp",
 "guthub": "https://raw.githubusercontent.com/{dataname}/main/assets/{insf}.webp",
@@ -7,6 +7,14 @@
 },
 "dataname": "Walljourney/wallnes",
 "assets": [
+{
+"seed": "0",
+"ti": "spacecraft vast starry sky background",
+"info": "Spacecraft with a vast starry sky in the background --ar 4:3 --v 5.1 discord <@Walljourney>",
+"insf": [
+"6a5ed0c1ddaaaa21a480e87b4cc07ade"
+]
+},
 {
 "seed": "0",
 "ti": "yoona wearing shirt wrap skirt",

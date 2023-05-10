@@ -1,5 +1,5 @@
 {
-"dateupdate": "20230509225714",
+"dateupdate": "20230510211757",
 "cdn": {
 "jsdelivr": "https://cdn.jsdelivr.net/gh/{dataname}/assets/{insf}.webp",
 "guthub": "https://raw.githubusercontent.com/{dataname}/main/assets/{insf}.webp",
@@ -7,6 +7,14 @@
 },
 "dataname": "Walljourney/wallnes",
 "assets": [
+{
+"seed": "0",
+"ti": "chun illustration sphinx sculpture",
+"info": "Chun Li, illustration, Sphinx sculpture is the background --ar 9:16 --niji 5 discord <@Walljourney>",
+"insf": [
+"a8e986ac55e587f8f742f48d19260910"
+]
+},
 {
 "seed": "0",
 "ti": "light style super cute girl",

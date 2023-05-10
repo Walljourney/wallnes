@@ -1,5 +1,5 @@
 {
-"dateupdate": "20230510220805",
+"dateupdate": "20230510233812",
 "cdn": {
 "jsdelivr": "https://cdn.jsdelivr.net/gh/{dataname}/assets/{insf}.webp",
 "guthub": "https://raw.githubusercontent.com/{dataname}/main/assets/{insf}.webp",
@@ -7,6 +7,14 @@
 },
 "dataname": "Walljourney/wallnes",
 "assets": [
+{
+"seed": "0",
+"ti": "grassland night wolf raised moon",
+"info": "In the grassland at night, a wolf screams with its head raised, with snow mountains in the background, the moon, --ar 4:3 --v 5.1 --s 750 --q 2 discord <@Walljourney>",
+"insf": [
+"5cf72982cef0fb6d89fd23659227b013"
+]
+},
 {
 "seed": "0",
 "ti": "face style photography glendening cartoon",

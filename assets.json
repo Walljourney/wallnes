@@ -1,5 +1,5 @@
 {
-"dateupdate": "20230510211757",
+"dateupdate": "20230510220805",
 "cdn": {
 "jsdelivr": "https://cdn.jsdelivr.net/gh/{dataname}/assets/{insf}.webp",
 "guthub": "https://raw.githubusercontent.com/{dataname}/main/assets/{insf}.webp",
@@ -7,6 +7,14 @@
 },
 "dataname": "Walljourney/wallnes",
 "assets": [
+{
+"seed": "0",
+"ti": "face style photography glendening cartoon",
+"info": "cover, face close-up, in the style of daria endresen, japanese photography, alfred augustus glendening, cartoon violence, associated press photo, kishin shinoyama, white and crimson --ar 9:20 --v 5.1 --s 750 --q 2 discord <@Walljourney>",
+"insf": [
+"c5281c559253db4f97fe981d4e8e83d1"
+]
+},
 {
 "seed": "0",
 "ti": "chun illustration sphinx sculpture",

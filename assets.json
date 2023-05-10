@@ -1,5 +1,5 @@
 {
-"dateupdate": "20230510233812",
+"dateupdate": "20230510234819",
 "cdn": {
 "jsdelivr": "https://cdn.jsdelivr.net/gh/{dataname}/assets/{insf}.webp",
 "guthub": "https://raw.githubusercontent.com/{dataname}/main/assets/{insf}.webp",
@@ -7,6 +7,14 @@
 },
 "dataname": "Walljourney/wallnes",
 "assets": [
+{
+"seed": "0",
+"ti": "tibetan mastiff capture photography",
+"info": "The golden Tibetan mastiff fights fiercely with wolves, tragic, capture, photography --ar 4:3 --v 5.1 --s 750 --q 2 discord <@Walljourney>",
+"insf": [
+"25ec1544e0aedfe5424b70dccdf46b54"
+]
+},
 {
 "seed": "0",
 "ti": "grassland night wolf raised moon",

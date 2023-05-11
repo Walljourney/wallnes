@@ -65,14 +65,6 @@
 },
 {
 "seed": "0",
-"ti": "yoona wearing shirt wrap skirt",
-"info": "Girl like yoona, wearing white shirt and wrap skirt, holding KRISS Vector, burning house is background --ar 4:3 discord <@Walljourney>",
-"insf": [
-"7263fcff0644518af5c2847212f7742e"
-]
-},
-{
-"seed": "0",
 "ti": "yoona blue shirt skirt office",
 "info": "A girl like Yoona, blue shirt, short skirt, office, 90-degree overhead shot --s 750 --v 5.1 --q 2 --ar 9:20 discord <@Walljourney>",
 "insf": [
@@ -85,14 +77,6 @@
 "info": "A girl like Yoona, blue shirt, short skirt, office, 90-degree overhead shot --s 750 --v 5.1 --q 2 --ar 9:20 discord <@Walljourney>",
 "insf": [
 "ed318221a7eea855b3ff5fe141309d98"
-]
-},
-{
-"seed": "0",
-"ti": "coffee poster sea splash illustration",
-"info": "Coffee poster by the sea, octopus, coffee splash, illustration, ultra realistic and detailed --ar 9:16 --v 5.1 --s 750 --q 2 discord <@Walljourney>",
-"insf": [
-"d9ea25c72c8885aac833230c6dcbd34d"
 ]
 },
 {
@@ -296,14 +280,6 @@
 "info": "cinematic, 8k, 4 year old little kid, laughing with a baby YAK, senory in tibet, hyper realistic, hdr, sunset lighting, colorful, ultra details, ultra realistic, --ar 9:16 --v 5",
 "insf": [
 "862e0a0335f1fd6cb3a36576fa0dc6e9"
-]
-},
-{
-"seed": "1024",
-"ti": "cabin flower dusk style jan",
-"info": "lakefront cabin with flower at dusk, in the style of highly realistic, colorful dreams, mountainous vistas, Jan Berenstain, grandeur of scale, natural lighting, august Friedrich Schenck, --ar 9:16 --v 5 --q 2",
-"insf": [
-"f995eecc3e54964578dbf3e891bec430"
 ]
 },
 {

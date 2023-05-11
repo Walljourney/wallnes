@@ -105,14 +105,6 @@
 },
 {
 "seed": "1024",
-"ti": "xiaoqing",
-"info": "Chinese paintings, fairy tales, The White Snake and Xiaoqing,--ar 4:3 --v 5.1 --s 750 discord <@Walljourney>",
-"insf": [
-"47547bca4bc59ee12f25c65493f074f1"
-]
-},
-{
-"seed": "1024",
 "ti": "degree",
 "info": "Chinese painting, panoramic 90 degree shooting, directly above the light, colorful auspicious clouds, exquisite details, 3 million pixels --ar 9:20 --q 2 --v 5.1 discord <@Walljourney>",
 "insf": [

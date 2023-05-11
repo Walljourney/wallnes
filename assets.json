@@ -1,5 +1,5 @@
 {
-"dateupdate": "20230511191131",
+"dateupdate": "20230511192135",
 "cdn": {
 "jsdelivr": "https://cdn.jsdelivr.net/gh/{dataname}/assets/{insf}.webp",
 "guthub": "https://raw.githubusercontent.com/{dataname}/main/assets/{insf}.webp",
@@ -7,6 +7,14 @@
 },
 "dataname": "Walljourney/wallnes",
 "assets": [
+{
+"seed": "0",
+"ti": "style yoona cosplay shiranui mai",
+"info": "Girl like yoona, cosplay Shiranui Mai, KOF97 style, posing, exquisite clothing details, background is Hong Kong commercial street, cyan tone, backlight, uhd, panorama, --ar 9:20 --q 2 --s 750 --style raw discord <@Walljourney>",
+"insf": [
+"8bdb1bbe8415539301fa7dd9745015f1"
+]
+},
 {
 "seed": "0",
 "ti": "style yoona cosplay shiranui mai",

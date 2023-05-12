@@ -1,5 +1,5 @@
 {
-"dateupdate": "20230512221026",
+"dateupdate": "20230512233522",
 "cdn": {
 "jsdelivr": "https://cdn.jsdelivr.net/gh/{dataname}/assets/{insf}.webp",
 "guthub": "https://raw.githubusercontent.com/{dataname}/main/assets/{insf}.webp",
@@ -7,6 +7,14 @@
 },
 "dataname": "Walljourney/wallnes",
 "assets": [
+{
+"seed": "0",
+"ti": "ram struggling capture film",
+"info": "A ram struggling to leap, capture, clear details, rich and full colors, up to film, --ar 4:3 --v 5.1 --s 750 --q 2 --style raw",
+"insf": [
+"ad94e45b78b9337dab28bac72fa1269c"
+]
+},
 {
 "seed": "0",
 "ti": "ancient palace dragon thunderstorm struggling",

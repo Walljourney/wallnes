@@ -1,5 +1,5 @@
 {
-"dateupdate": "20230512193634",
+"dateupdate": "20230512200338",
 "cdn": {
 "jsdelivr": "https://cdn.jsdelivr.net/gh/{dataname}/assets/{insf}.webp",
 "guthub": "https://raw.githubusercontent.com/{dataname}/main/assets/{insf}.webp",
@@ -7,6 +7,14 @@
 },
 "dataname": "Walljourney/wallnes",
 "assets": [
+{
+"seed": "0",
+"ti": "ancient incilius squatting exuding dazzling",
+"info": "The huge and ancient Incilius periglenes, squatting in a cave hundreds of millions of years ago, the cave is full of colorful diamonds, exuding dazzling light, peace, joy, ultra-clear skin texture, ultra-clear diamond refraction, UHD, --ar 9:16 --s 750 --v 5.1 --q 2 discord <@Walljourney>",
+"insf": [
+"96bab3e8e3357ef8e11696bc785f8141"
+]
+},
 {
 "seed": "0",
 "ti": "water lying crystal lotus blooming",

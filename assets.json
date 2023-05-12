@@ -12,19 +12,14 @@
 "ti": "style yoona cosplay shiranui mai",
 "info": "Girl like yoona, cosplay Shiranui Mai, KOF97 style, posing, exquisite clothing details, background is Hong Kong commercial street, cyan tone, backlight, uhd, panorama, --ar 9:20 --q 2 --s 750 --style raw discord <@Walljourney>",
 "insf": [
-"8bdb1bbe8415539301fa7dd9745015f1"
+"8bdb1bbe8415539301fa7dd9745015f1",
+"6299201709b512b3993c8da1f845f819",
+"cd348eda8b9364d2e43eb422f06da0a2",
+"ed318221a7eea855b3ff5fe141309d98"
 ]
 },
 {
-"seed": "0",
-"ti": "style yoona cosplay shiranui mai",
-"info": "Girl like yoona, cosplay Shiranui Mai, KOF97 style, posing, exquisite clothing details, background is Hong Kong commercial street, cyan tone, backlight, uhd, panorama, --ar 9:20 --q 2 --s 750 --style raw discord <@Walljourney>",
-"insf": [
-"6299201709b512b3993c8da1f845f819"
-]
-},
-{
-"seed": "0",
+"seed": "1024",
 "ti": "tibetan mastiff capture photography",
 "info": "The golden Tibetan mastiff fights fiercely with wolves, tragic, capture, photography --ar 4:3 --v 5.1 --s 750 --q 2 discord <@Walljourney>",
 "insf": [
@@ -32,7 +27,7 @@
 ]
 },
 {
-"seed": "0",
+"seed": "1024",
 "ti": "grassland night wolf raised moon",
 "info": "In the grassland at night, a wolf screams with its head raised, with snow mountains in the background, the moon, --ar 4:3 --v 5.1 --s 750 --q 2 discord <@Walljourney>",
 "insf": [
@@ -40,7 +35,7 @@
 ]
 },
 {
-"seed": "0",
+"seed": "1024",
 "ti": "face style photography glendening cartoon",
 "info": "cover, face close-up, in the style of daria endresen, japanese photography, alfred augustus glendening, cartoon violence, associated press photo, kishin shinoyama, white and crimson --ar 9:20 --v 5.1 --s 750 --q 2 discord <@Walljourney>",
 "insf": [
@@ -48,7 +43,7 @@
 ]
 },
 {
-"seed": "0",
+"seed": "1024",
 "ti": "chun illustration sphinx sculpture",
 "info": "Chun Li, illustration, Sphinx sculpture is the background --ar 9:16 --niji 5 discord <@Walljourney>",
 "insf": [
@@ -56,7 +51,7 @@
 ]
 },
 {
-"seed": "0",
+"seed": "1024",
 "ti": "light style super cute girl",
 "info": "A super happy cute little ancient Chinese girl standing on the grass with gorgeous and cute jellyfish dancing in the air, coral, bright light, light green and yellowish tones, surrealism, ink style, Qi Baishi, clear outline light , rim light, fantasy, light spot, graphic illustration, disney style, 8k, --ar 9:16 --niji 5 discord <@Walljourney>",
 "insf": [
@@ -64,7 +59,7 @@
 ]
 },
 {
-"seed": "0",
+"seed": "1024",
 "ti": "dragon boat cute pale style",
 "info": "Dragon Boat Festival\uff0cA super happy cute little ancient Chinese girl, paddling a boat, a cute dragon behind her, reeds, bright light, pale green and pale yellow tones, surrealism, Ink and wash style, Qi Baishi, clear outline light, edge light, fantasy, Dappled light, flat illustration, Disney style, 8k, --ar 9:16 --niji 5 discord <@Walljourney>",
 "insf": [
@@ -72,7 +67,7 @@
 ]
 },
 {
-"seed": "0",
+"seed": "1024",
 "ti": "spacecraft vast starry sky background",
 "info": "Spacecraft with a vast starry sky in the background --ar 4:3 --v 5.1 discord <@Walljourney>",
 "insf": [
@@ -80,23 +75,7 @@
 ]
 },
 {
-"seed": "0",
-"ti": "yoona blue shirt skirt office",
-"info": "A girl like Yoona, blue shirt, short skirt, office, 90-degree overhead shot --s 750 --v 5.1 --q 2 --ar 9:20 discord <@Walljourney>",
-"insf": [
-"cd348eda8b9364d2e43eb422f06da0a2"
-]
-},
-{
-"seed": "0",
-"ti": "yoona blue shirt skirt office",
-"info": "A girl like Yoona, blue shirt, short skirt, office, 90-degree overhead shot --s 750 --v 5.1 --q 2 --ar 9:20 discord <@Walljourney>",
-"insf": [
-"ed318221a7eea855b3ff5fe141309d98"
-]
-},
-{
-"seed": "0",
+"seed": "1024",
 "ti": "painting courtyard lady peony crane",
 "info": "Chinese painting, courtyard, lady::3, peony::2, red-crowned crane::2, peace, wealth --ar 4:3 --v 5.1 --q 2 discord <@Walljourney>",
 "insf": [

@@ -1,5 +1,5 @@
 {
-"dateupdate": "20230512200338",
+"dateupdate": "20230512221026",
 "cdn": {
 "jsdelivr": "https://cdn.jsdelivr.net/gh/{dataname}/assets/{insf}.webp",
 "guthub": "https://raw.githubusercontent.com/{dataname}/main/assets/{insf}.webp",
@@ -7,6 +7,14 @@
 },
 "dataname": "Walljourney/wallnes",
 "assets": [
+{
+"seed": "0",
+"ti": "ancient palace dragon thunderstorm struggling",
+"info": "The tall and majestic ancient Chinese palace, the dragon shuttles in the thunderstorm, thunderstorm::2, struggling, grasping, the picture is clear, --ar 4:3 --v 5.1 --s 750 --q 2 discord <@Walljourney>",
+"insf": [
+"af1799f61b8e5885b9e6bf189ec0442c"
+]
+},
 {
 "seed": "0",
 "ti": "ancient incilius squatting exuding dazzling",

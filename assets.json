@@ -1,5 +1,5 @@
 {
-"dateupdate": "20230511192135",
+"dateupdate": "20230512193634",
 "cdn": {
 "jsdelivr": "https://cdn.jsdelivr.net/gh/{dataname}/assets/{insf}.webp",
 "guthub": "https://raw.githubusercontent.com/{dataname}/main/assets/{insf}.webp",
@@ -9,6 +9,15 @@
 "assets": [
 {
 "seed": "0",
+"ti": "water lying crystal lotus blooming",
+"info": "Emerald green water snake lying on a lotus leaf with crystal clear dewdrops, purple lotus blooming in the pond, shiny scales on the snake body, purple fog, auspicious, fairyland, super high resolution, ar 4:3 --s 750 --q 2 --v 5.1",
+"insf": [
+"4176096ac85ba0d467c59b6013602cff",
+"fc34b19cbd1cde048953e62772acceed"
+]
+},
+{
+"seed": "1024",
 "ti": "style yoona cosplay shiranui mai",
 "info": "Girl like yoona, cosplay Shiranui Mai, KOF97 style, posing, exquisite clothing details, background is Hong Kong commercial street, cyan tone, backlight, uhd, panorama, --ar 9:20 --q 2 --s 750 --style raw discord <@Walljourney>",
 "insf": [

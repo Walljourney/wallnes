@@ -1,5 +1,5 @@
 {
-"dateupdate": "20230514223752",
+"dateupdate": "20230514225759",
 "cdn": {
 "jsdelivr": "https://cdn.jsdelivr.net/gh/{dataname}/assets/{insf}.webp",
 "guthub": "https://raw.githubusercontent.com/{dataname}/main/assets/{insf}.webp",
@@ -7,6 +7,15 @@
 },
 "dataname": "Walljourney/wallnes",
 "assets": [
+{
+"seed": "0",
+"size": "1232*928",
+"ti": "strength sense bull body side",
+"info": "Bull::2, Angry::2, low-angle lens, full body shot, side 45-degree capture with high-definition details, rich colors, sense of strength, sense of strength, sense of oppression, --no people --ar 4:3 --s 750 --v 5.1 --q 2 discord <@Walljourney>",
+"insf": [
+"f8c520baad6beff9242c3954fb1e5e07"
+]
+},
 {
 "seed": "0",
 "size": "816*1456",

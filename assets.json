@@ -1,5 +1,5 @@
 {
-"dateupdate": "20230512233522",
+"dateupdate": "20230514223752",
 "cdn": {
 "jsdelivr": "https://cdn.jsdelivr.net/gh/{dataname}/assets/{insf}.webp",
 "guthub": "https://raw.githubusercontent.com/{dataname}/main/assets/{insf}.webp",
@@ -7,6 +7,15 @@
 },
 "dataname": "Walljourney/wallnes",
 "assets": [
+{
+"seed": "0",
+"size": "816*1456",
+"ti": "brown bull fighting stance distant",
+"info": "Brown strong bull, fighting stance, dusty, distant shot, high definition detail, rich colors, sense of strength, --ar 9:16 --s 750 --v 5.1 --q 2 discord <@Walljourney>",
+"insf": [
+"136d8a03a95f20587d6e88c5aae67785"
+]
+},
 {
 "seed": "1024",
 "size": "1232*928",

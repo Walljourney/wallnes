@@ -1,5 +1,5 @@
 {
-"dateupdate": "20230514225759",
+"dateupdate": "20230514231804",
 "cdn": {
 "jsdelivr": "https://cdn.jsdelivr.net/gh/{dataname}/assets/{insf}.webp",
 "guthub": "https://raw.githubusercontent.com/{dataname}/main/assets/{insf}.webp",
@@ -7,6 +7,15 @@
 },
 "dataname": "Walljourney/wallnes",
 "assets": [
+{
+"seed": "0",
+"size": "1232*928",
+"ti": "grazing grassland perspective sunrise snow",
+"info": "Cows are grazing on the grassland, with rich postures, colorful flowers on the grass, ant perspective, sunrise, snow mountain, snapshot, high-definition details, rich colors, --ar 4:3 --s 750 --v 5.1 --q 2 discord <@Walljourney>",
+"insf": [
+"319af583719669d48af304c9d2dfe2f0"
+]
+},
 {
 "seed": "0",
 "size": "1232*928",

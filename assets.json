@@ -8,7 +8,8 @@
 "dataname": "Walljourney/wallnes",
 "assets": [
 {
-"seed": "0",
+"seed": "1024",
+"size": "1232*928",
 "ti": "ram struggling capture film",
 "info": "A ram struggling to leap, capture, clear details, rich and full colors, up to film, --ar 4:3 --v 5.1 --s 750 --q 2 --style raw",
 "insf": [
@@ -16,29 +17,32 @@
 ]
 },
 {
-"seed": "0",
+"seed": "1024",
 "ti": "ancient palace dragon thunderstorm struggling",
 "info": "The tall and majestic ancient Chinese palace, the dragon shuttles in the thunderstorm, thunderstorm::2, struggling, grasping, the picture is clear, --ar 4:3 --v 5.1 --s 750 --q 2 discord <@Walljourney>",
 "insf": [
 "af1799f61b8e5885b9e6bf189ec0442c"
-]
+],
+"size": "1232*928"
 },
 {
-"seed": "0",
+"seed": "1024",
 "ti": "ancient incilius squatting exuding dazzling",
 "info": "The huge and ancient Incilius periglenes, squatting in a cave hundreds of millions of years ago, the cave is full of colorful diamonds, exuding dazzling light, peace, joy, ultra-clear skin texture, ultra-clear diamond refraction, UHD, --ar 9:16 --s 750 --v 5.1 --q 2 discord <@Walljourney>",
 "insf": [
 "96bab3e8e3357ef8e11696bc785f8141"
-]
+],
+"size": "816*1456"
 },
 {
-"seed": "0",
+"seed": "1024",
 "ti": "water lying crystal lotus blooming",
 "info": "Emerald green water snake lying on a lotus leaf with crystal clear dewdrops, purple lotus blooming in the pond, shiny scales on the snake body, purple fog, auspicious, fairyland, super high resolution, ar 4:3 --s 750 --q 2 --v 5.1",
 "insf": [
 "4176096ac85ba0d467c59b6013602cff",
 "fc34b19cbd1cde048953e62772acceed"
-]
+],
+"size": "1024*1024"
 },
 {
 "seed": "1024",
@@ -49,7 +53,8 @@
 "6299201709b512b3993c8da1f845f819",
 "cd348eda8b9364d2e43eb422f06da0a2",
 "ed318221a7eea855b3ff5fe141309d98"
-]
+],
+"size": "736*1632"
 },
 {
 "seed": "1024",
@@ -57,7 +62,8 @@
 "info": "The golden Tibetan mastiff fights fiercely with wolves, tragic, capture, photography --ar 4:3 --v 5.1 --s 750 --q 2 discord <@Walljourney>",
 "insf": [
 "25ec1544e0aedfe5424b70dccdf46b54"
-]
+],
+"size": "1232*928"
 },
 {
 "seed": "1024",
@@ -65,7 +71,8 @@
 "info": "In the grassland at night, a wolf screams with its head raised, with snow mountains in the background, the moon, --ar 4:3 --v 5.1 --s 750 --q 2 discord <@Walljourney>",
 "insf": [
 "5cf72982cef0fb6d89fd23659227b013"
-]
+],
+"size": "1232*928"
 },
 {
 "seed": "1024",
@@ -73,7 +80,8 @@
 "info": "cover, face close-up, in the style of daria endresen, japanese photography, alfred augustus glendening, cartoon violence, associated press photo, kishin shinoyama, white and crimson --ar 9:20 --v 5.1 --s 750 --q 2 discord <@Walljourney>",
 "insf": [
 "c5281c559253db4f97fe981d4e8e83d1"
-]
+],
+"size": "736*1632"
 },
 {
 "seed": "1024",
@@ -81,7 +89,8 @@
 "info": "Chun Li, illustration, Sphinx sculpture is the background --ar 9:16 --niji 5 discord <@Walljourney>",
 "insf": [
 "a8e986ac55e587f8f742f48d19260910"
-]
+],
+"size": "816*1456"
 },
 {
 "seed": "1024",
@@ -89,7 +98,8 @@
 "info": "A super happy cute little ancient Chinese girl standing on the grass with gorgeous and cute jellyfish dancing in the air, coral, bright light, light green and yellowish tones, surrealism, ink style, Qi Baishi, clear outline light , rim light, fantasy, light spot, graphic illustration, disney style, 8k, --ar 9:16 --niji 5 discord <@Walljourney>",
 "insf": [
 "3aab317c592342880c1f0403d1eb69c6"
-]
+],
+"size": "816*1456"
 },
 {
 "seed": "1024",
@@ -97,7 +107,8 @@
 "info": "Dragon Boat Festival\uff0cA super happy cute little ancient Chinese girl, paddling a boat, a cute dragon behind her, reeds, bright light, pale green and pale yellow tones, surrealism, Ink and wash style, Qi Baishi, clear outline light, edge light, fantasy, Dappled light, flat illustration, Disney style, 8k, --ar 9:16 --niji 5 discord <@Walljourney>",
 "insf": [
 "87b8b5460d24edbca2bb1f12e53956dc"
-]
+],
+"size": "816*1456"
 },
 {
 "seed": "1024",
@@ -105,7 +116,8 @@
 "info": "Spacecraft with a vast starry sky in the background --ar 4:3 --v 5.1 discord <@Walljourney>",
 "insf": [
 "6a5ed0c1ddaaaa21a480e87b4cc07ade"
-]
+],
+"size": "1232*928"
 },
 {
 "seed": "1024",
@@ -113,7 +125,8 @@
 "info": "Chinese painting, courtyard, lady::3, peony::2, red-crowned crane::2, peace, wealth --ar 4:3 --v 5.1 --q 2 discord <@Walljourney>",
 "insf": [
 "cfebda672217d9afc2c707db63ae7131"
-]
+],
+"size": "1232*928"
 },
 {
 "seed": "1024",
@@ -121,7 +134,8 @@
 "info": "Chinese painting, panoramic 90 degree shooting, directly above the light, colorful auspicious clouds, exquisite details, 3 million pixels --ar 9:20 --q 2 --v 5.1 discord <@Walljourney>",
 "insf": [
 "95c81961a8576460f6ffcab7650c83e9"
-]
+],
+"size": "736*1632"
 },
 {
 "seed": "1024",
@@ -129,7 +143,8 @@
 "info": "A girl like Yoona, wearing a plaid shirt, blue jeans, wide-angle lens, confident, smiling, the last of us, ultra-high-definition, photo, clear and bright colors --s 750 --v 5.1 --q 2 --ar 9:20 discord <@Walljourney>",
 "insf": [
 "53d5e8e292f4fcd3193f80967de58226"
-]
+],
+"size": "736*1632"
 },
 {
 "seed": "1024",
@@ -137,7 +152,8 @@
 "info": "A girl like Yoona, wearing a plaid shirt, full body shot, confident, smiling, the last of us style, ultra high definition, medium tone, clear and bright colors --s 750 --v 5.1 --q 2 --ar 9:20 discord <@Walljourney>",
 "insf": [
 "685e05b410f4ab4d9b96ccd24912206c"
-]
+],
+"size": "736*1632"
 },
 {
 "seed": "1024",
@@ -145,7 +161,8 @@
 "info": "Girl like yoona, wearing white short-sleeved shirt, full body photo, face confident, plum blossoms in background, smiling, UHD, mid-tone, clear bright colors --s 750 --v 5.1 --q 2 --ar 9:20 discord <@Walljourney>",
 "insf": [
 "d885edcaa310248df377aeff330b98a8"
-]
+],
+"size": "736*1632"
 },
 {
 "seed": "1024",
@@ -153,7 +170,8 @@
 "info": "Chinese ink and wash style, three koi carp::3, sense of gathering::2, vertical perspective::4, simple image, Zhang Daqian --niji 5 --ar 9:16 discord <@Walljourney>",
 "insf": [
 "10729205207292042ed4e5862de1d6ba"
-]
+],
+"size": "816*1411"
 },
 {
 "seed": "1024",
@@ -161,7 +179,8 @@
 "info": "Chinese ink and wash style, snow, plum blossom, --niji 5 --ar 4:3 discord <@Walljourney>",
 "insf": [
 "c79f8d8a9cb86a5bbda2cf376c3fd57b"
-]
+],
+"size": "1232*928"
 },
 {
 "seed": "1024",
@@ -169,7 +188,8 @@
 "info": "Ink and wash style, Chinese kung fu, dragon, Wu Guanzhong, Zhang Daqian --niji 5 --ar 9:16 discord <@Walljourney>",
 "insf": [
 "fd8b762e41b91c619342a6cffaec87e7"
-]
+],
+"size": "816*1456"
 },
 {
 "seed": "1024",
@@ -177,7 +197,8 @@
 "info": "Strong mouse boxer throws an uppercut::3, with white wrist straps on his hands, standing in the ring, panoramic shot::2, tall::2, majestic::2, sure to win::2, flash, --ar 4:3 --v 5.1 --q 2 --s 250 discord <@Walljourney>",
 "insf": [
 "2e89263f2b4ee81eaf9716597096d148"
-]
+],
+"size": "1232*928"
 },
 {
 "seed": "1024",
@@ -185,7 +206,8 @@
 "info": "A huge tiger slowly walks out of the jungle, majestic::2, licking its beard, staring at the camera, the color is rich, full and sharp, shot on the ground, side shot, --ar 9:16 --v 5.1 --s 750 --q 2 discord <@Walljourney>",
 "insf": [
 "70bd28bcc83d1d2a3444c5d8e995ff17"
-]
+],
+"size": "816*1456"
 },
 {
 "seed": "1024",
@@ -193,7 +215,8 @@
 "info": "Artistic picture of a vulture, comic book style, rich in detail, layered composition, painted illustration, vibrant mural, detailed illustration, gouache, sculpture --ar 4:3 --niji 5 --q 2 discord <@Walljourney>",
 "insf": [
 "077774740d5f7bd4a8979ed027d016a5"
-]
+],
+"size": "1232*928"
 },
 {
 "seed": "1024",
@@ -201,7 +224,8 @@
 "info": "A rabbit in a space suit looking at the moon::3, the earth in the distance, the universe is always scattered with satellite fragments, looking up, two points of view disappearing --ar 3:4 --s 250 --v 5",
 "insf": [
 "9a54d2f7d88227fdabf397c968924e27"
-]
+],
+"size": "928*1232"
 },
 {
 "seed": "1024",
@@ -210,7 +234,8 @@
 "insf": [
 "7dc55b77045686e0ff4ca08de30a4c7d",
 "663d792653eff64c25e3113883ede493"
-]
+],
+"size": "816*1456"
 },
 {
 "seed": "1024",
@@ -218,7 +243,8 @@
 "info": "Paper art illustration, concept of heaven, landscape, beautiful, serene, calm, starry sky, village, cinematic, 8k --ar 9:20 --s 250 --v 5 discord @Walljourney",
 "insf": [
 "d57f714c8c0e0535519049c29ed242d7"
-]
+],
+"size": "736*1632"
 },
 {
 "seed": "1024",
@@ -226,7 +252,8 @@
 "info": "an oil painting of an autumn scene, in the style of whimsical fairy tales, dark turquoise and turquoise, thick impasto, uhd image, romantic moonlit seascapes, light bronze and orange, ferrania p30 --ar 9:19 --s 250 --v 5 discord @Walljourney",
 "insf": [
 "12ce21be4917b0e011f5e348d4d7f1fc"
-]
+],
+"size": "752*1584"
 },
 {
 "seed": "1024",
@@ -234,7 +261,8 @@
 "info": "Aquila flies on the cloud-shrouded mountains, the cliffs are full of flowers, 45 degrees overlooking, Hasselblad color, super high resolution, full and sharp color --ar 3:4 --s 250 --v 5 --s 250 --v 5 discord @Walljourney",
 "insf": [
 "ac3ea9f6f3edecc96bfb50277cf4a827"
-]
+],
+"size": "928*1232"
 },
 {
 "seed": "1024",
@@ -242,7 +270,8 @@
 "info": "There is a temple in the cliff, shining golden light in the morning sun, the mountain next to it is shrouded in smoke, the mountain is lush and full of colors, --ar 9:16 --s 250 --v 5 --s 250 --v 5 discord @Walljourney",
 "insf": [
 "47a1436e7beeb9e23ad83cffd9122c33"
-]
+],
+"size": "816*1456"
 },
 {
 "seed": "1024",
@@ -250,7 +279,8 @@
 "info": "A white rooster with a fiery red comb, standing on the eaves and watching the sun, with a panoramic view of the mountains in the distance, the colors are full and Ruili, showing the demeanor of a king, the picture is majestic, giving people a yearning for a new life, HDR, Hasselblad colors , --ar 9:16 --s 250 --v 5",
 "insf": [
 "796058bea0634afac4d94bce687d451b"
-]
+],
+"size": "816*1456"
 },
 {
 "seed": "1024",
@@ -259,7 +289,8 @@
 "insf": [
 "0686eb8bb2c22d6175ec924d23805876",
 "1310082f32c24f9e40fb58dc085d991a"
-]
+],
+"size": "816*1456"
 },
 {
 "seed": "1024",
@@ -267,7 +298,8 @@
 "info": "The blue sky and white clouds are so pleasant. The cloud shaped like a bear 's head is amazing. The distant scenery is even more romantic and beautiful. Let's enjoy this beautiful moment together. Shot in high-definition 8K --ar 9:16 --s 250 --niji 5",
 "insf": [
 "3d10bc2bc7d086245de3a8c1ea433728"
-]
+],
+"size": "816*1456"
 },
 {
 "seed": "1024",
@@ -276,7 +308,8 @@
 "insf": [
 "8cb0e1de1e9c6e837fa35385911304e3",
 "3f6d882394947a99a9e05395e86f4bb8"
-]
+],
+"size": "816*1456"
 },
 {
 "seed": "1024",
@@ -284,7 +317,8 @@
 "info": "Aphrodite, the goddess of love and beauty, emerging from a seafoam wave, her flowing hair and robes intertwining with seashells and pearls, while seagulls fly around her, creating a serene yet majestic environment, Oil painting on canvas, using a 50mm lens, --ar 9:16 --v 5",
 "insf": [
 "560039fcf63ce2043d61d1a78bae2222"
-]
+],
+"size": "816*1456"
 },
 {
 "seed": "1024",
@@ -292,7 +326,8 @@
 "info": "logo for youtube channel, black background, 3d art, lonely man with mask and a cigarette while raining, --ar 9:16 --v 5",
 "insf": [
 "d027b03d53b9c20669562f5a7c6c0bbd"
-]
+],
+"size": "816*1456"
 },
 {
 "seed": "1024",
@@ -300,7 +335,8 @@
 "info": "cinematic, 8k, 4 year old little kid, laughing with a baby YAK, senory in tibet, hyper realistic, hdr, sunset lighting, colorful, ultra details, ultra realistic, --ar 9:16 --v 5",
 "insf": [
 "862e0a0335f1fd6cb3a36576fa0dc6e9"
-]
+],
+"size": "816*1456"
 },
 {
 "seed": "1024",
@@ -308,7 +344,8 @@
 "info": "A samurai in neo-Tokyo, cyberpunk, futuristic, cinematic, blade runner, beautiful, night, neon lights, ultra realistic, foggy background, high detailed, 8k, --ar 9:16 --v 5 --q 2",
 "insf": [
 "e1ee92b45bac4e41f748ecd7ed223b21"
-]
+],
+"size": "816*1456"
 }
 ]
 }

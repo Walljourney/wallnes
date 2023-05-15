@@ -1,5 +1,5 @@
 {
-"dateupdate": "20230515152748",
+"dateupdate": "20230515160753",
 "cdn": {
 "jsdelivr": "https://cdn.jsdelivr.net/gh/{dataname}/assets/{insf}.webp",
 "guthub": "https://raw.githubusercontent.com/{dataname}/main/assets/{insf}.webp",
@@ -7,6 +7,15 @@
 },
 "dataname": "Walljourney/wallnes",
 "assets": [
+{
+"seed": "0",
+"size": "816*1456",
+"ti": "facing camera realism style charming",
+"info": "yoona with tattoos, long braids, facing away from the camera, fitted skirt, cyberpunk realism style, charming anime character, yoona, silk/hidden, black, orange, ferrania p30, high detail --ar 9:16 --s 1000 --v 5.1 --q 2 discord <@Walljourney>",
+"insf": [
+"70b9421a31f04a232fd27be7dd3d5bea"
+]
+},
 {
 "seed": "0",
 "size": "1232*928",

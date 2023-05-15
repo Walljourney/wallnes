@@ -1,5 +1,5 @@
 {
-"dateupdate": "20230515160753",
+"dateupdate": "20230515170757",
 "cdn": {
 "jsdelivr": "https://cdn.jsdelivr.net/gh/{dataname}/assets/{insf}.webp",
 "guthub": "https://raw.githubusercontent.com/{dataname}/main/assets/{insf}.webp",
@@ -7,6 +7,15 @@
 },
 "dataname": "Walljourney/wallnes",
 "assets": [
+{
+"seed": "0",
+"size": "816*1456",
+"ti": "bioluminescent lighting",
+"info": "bioluminescent, seaweed, seaworld, shells, neon lighting, 8k --ar 9:16 --v 5.1 --s 1000 --q 2 discord <@Walljourney>",
+"insf": [
+"2bd76a64a482cdee82edeaf24f7b74a0"
+]
+},
 {
 "seed": "0",
 "size": "816*1456",

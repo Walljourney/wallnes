@@ -1,5 +1,5 @@
 {
-"dateupdate": "20230515115811",
+"dateupdate": "20230515143816",
 "cdn": {
 "jsdelivr": "https://cdn.jsdelivr.net/gh/{dataname}/assets/{insf}.webp",
 "guthub": "https://raw.githubusercontent.com/{dataname}/main/assets/{insf}.webp",
@@ -7,6 +7,15 @@
 },
 "dataname": "Walljourney/wallnes",
 "assets": [
+{
+"seed": "0",
+"size": "816*1456",
+"ti": "style photo riding hyper portrait",
+"info": "photo of little girl riding on dinosaur, hyper realistic portrait style, ultra hd, donato giancola, ghibli style, close-up intensity, character caricature, interactive experience --ar 9:16 --s 750 --q 2 --niji 5 discord <@Walljourney>",
+"insf": [
+"2924fc1d93c861615302261d5b1e6049"
+]
+},
 {
 "seed": "0",
 "size": "1232*928",

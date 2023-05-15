@@ -1,5 +1,5 @@
 {
-"dateupdate": "20230515151741",
+"dateupdate": "20230515152748",
 "cdn": {
 "jsdelivr": "https://cdn.jsdelivr.net/gh/{dataname}/assets/{insf}.webp",
 "guthub": "https://raw.githubusercontent.com/{dataname}/main/assets/{insf}.webp",
@@ -7,6 +7,15 @@
 },
 "dataname": "Walljourney/wallnes",
 "assets": [
+{
+"seed": "0",
+"size": "1232*928",
+"ti": "mossy shibuya fine definition photography",
+"info": "Mossy Shibuya in 2089, fine details, high definition, realistic photography, --ar 4:3 --v 5.1 --s 750 --q 2 discord <@Walljourney>",
+"insf": [
+"e64987eb06f226b3de42a423cf222bee"
+]
+},
 {
 "seed": "0",
 "size": "736*1632",

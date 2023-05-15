@@ -1,5 +1,5 @@
 {
-"dateupdate": "20230515143816",
+"dateupdate": "20230515151741",
 "cdn": {
 "jsdelivr": "https://cdn.jsdelivr.net/gh/{dataname}/assets/{insf}.webp",
 "guthub": "https://raw.githubusercontent.com/{dataname}/main/assets/{insf}.webp",
@@ -7,6 +7,15 @@
 },
 "dataname": "Walljourney/wallnes",
 "assets": [
+{
+"seed": "0",
+"size": "736*1632",
+"ti": "picture riding style portraiture rocha",
+"info": "picture of children riding on the back of a dinosaur, in the style of hyper-realistic portraiture, andreas rocha, ultra hd, donato giancola, close-up intensity, character caricatures, interactive experiences --v 5.1 --ar 9:20 --s 750 --q 2 discord <@Walljourney>",
+"insf": [
+"953628aa8b3550026a2ebe82ff94b098"
+]
+},
 {
 "seed": "0",
 "size": "816*1456",

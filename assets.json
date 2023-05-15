@@ -1,5 +1,5 @@
 {
-"dateupdate": "20230514231804",
+"dateupdate": "20230515115811",
 "cdn": {
 "jsdelivr": "https://cdn.jsdelivr.net/gh/{dataname}/assets/{insf}.webp",
 "guthub": "https://raw.githubusercontent.com/{dataname}/main/assets/{insf}.webp",
@@ -7,6 +7,15 @@
 },
 "dataname": "Walljourney/wallnes",
 "assets": [
+{
+"seed": "0",
+"size": "1232*928",
+"ti": "grazing prairie animation style sunrise",
+"info": "Cows are grazing on the prairie, with rich poses, colorful flowers on the grass, Pixar animation style, sunrise, snowy mountains, snapshot, high-definition details, rich colors, --ar 4:3 --s 750 --v 5.1 --q 2 discord <@Walljourney>",
+"insf": [
+"c28b60c1f66139d53b5292ab6a97c1e5"
+]
+},
 {
 "seed": "0",
 "size": "1232*928",

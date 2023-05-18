@@ -1,5 +1,5 @@
 {
-"dateupdate": "20230518224730",
+"dateupdate": "20230518225736",
 "cdn": {
 "jsdelivr": "https://cdn.jsdelivr.net/gh/{dataname}/assets/{insf}.webp",
 "guthub": "https://raw.githubusercontent.com/{dataname}/main/assets/{insf}.webp",
@@ -7,6 +7,15 @@
 },
 "dataname": "Walljourney/wallnes",
 "assets": [
+{
+"seed": "0",
+"size": "816*1456",
+"ti": "wearing pink makeup holding cute",
+"info": "yoona wearing pink nurse makeup, holding two super cute little babies, surrounded by roses, motherly love, happiness, hasselblad camera, ultra hd detail, --ar 9:16 --s 1000 --v 5.1 discord <@Walljourney>",
+"insf": [
+"05001f3fdb6fade35a329ecb881d8dfb"
+]
+},
 {
 "seed": "0",
 "size": "1344*896",

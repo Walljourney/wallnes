@@ -1,5 +1,5 @@
 {
-"dateupdate": "20230515170757",
+"dateupdate": "20230518224730",
 "cdn": {
 "jsdelivr": "https://cdn.jsdelivr.net/gh/{dataname}/assets/{insf}.webp",
 "guthub": "https://raw.githubusercontent.com/{dataname}/main/assets/{insf}.webp",
@@ -7,6 +7,24 @@
 },
 "dataname": "Walljourney/wallnes",
 "assets": [
+{
+"seed": "0",
+"size": "1344*896",
+"ti": "paper village river starry night",
+"info": "Village, river and starry night style van gogh::2 paper quilling paper art --q 2 --ar 3:2 --v 5.1 discord <@Walljourney>",
+"insf": [
+"34f3b64fd861d43efc98e99e12d7c2e5"
+]
+},
+{
+"seed": "0",
+"size": "1232*928",
+"ti": "ground wearing sitting holding baby",
+"info": "Yoona is wearing a pink top and white pants, sitting on the ground, holding a baby in her arms::2, a baby is crawling on the ground, yoona is smiling happily, surrounded by roses, pink background, Hasselblad camera, ultra-high-definition details, --ar 4:3 --s 1000 --v 5.1 discord <@Walljourney>",
+"insf": [
+"7da5bb8858aa11a8ed6ce7e97c00a2c4"
+]
+},
 {
 "seed": "0",
 "size": "816*1456",
